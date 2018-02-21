@@ -13,11 +13,36 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import matplotlib as mpl
 import numpy as np
-
+import geocoder
 import setup_plt_style
+import numpy as np
+from mpl_toolkits.basemap import Basemap
+import matplotlib.pyplot as plt
+from math import sqrt
+from datetime import datetime
 
 setup_plt_style.set_plt_style()
 
+def find_contry(value, country_list):
+    for country in country_list:
+        if country in str(value):
+            return country
+
+# def plot_stat(s, scale = 1, title='USA stats'):  #todo: to fix; misundertood the function of geoparse; need a address as input, rather than just a name
+#     map = Basemap(width=10000000, height=6000000, projection='lcc',
+#                   resolution=None, lat_1=45., lat_2=55, lat_0=50, lon_0=-107.)
+#     plt.figure(figsize=(19, 20))
+#     for location, count in s.iteritems():
+#         loc = geocoder.google(location)
+#         if not loc:
+#             print("Could not locate {}".format(location))
+#             continue
+#         x, y = map(loc.latlng[0], loc.latlng[1])
+#         map.plot(x,y,marker='o',color='Red',markersize=int(sqrt(count))*scale)
+#         plt.annotate(location, xy = (x,y), xytext=(-20,20))
+#     plt.title(title)
+#     plt.show()
+#     plt.savefig('{}.png'.format(title))
 
 def literature_stats(endnote_export_file):
     # status_indicator = 0
@@ -50,10 +75,21 @@ def literature_stats(endnote_export_file):
                 df = df.append(current, ignore_index=True)
                 dataitem = {}
                 i = 0
+
+    df_ = df['Author Address'].str.split(',', expand=True).iloc[:,0]
+    df_.name = 'University' #
+    df = pd.concat([df, df_], axis=1)
+
+    df['Country'] = df.apply(lambda row: find_contry(row['Author Address'], country_list) , axis=1) #
+    # df['geo'] = df.apply(lambda row: geocoder.google(row['Author Address'] , axis=1)) #todo: to fix; wrong return datatype to insert into dataframe
+
     df.to_csv('stats_output\ieee_stats.csv')
 
     ieee_scotland = df.loc[df['Author Address'].str.contains('Scotland', na=False)]
     ieee_scotland.to_csv('stats_output\ieee_scotland.csv')
+
+    ieee_usa = df.loc[df['Author Address'].str.contains('USA', na=False)]
+    ieee_usa.to_csv('stats_output\ieee_USA.csv')
     return df
 
 
@@ -103,7 +139,7 @@ def keywords_stats_horizon(df, horizon):
     keywords_stats_multiyears['total'] = keywords_stats_multiyears.sum(axis=1)
     keywords_stats_multiyears.sort_values(by='total', ascending=False, inplace=True)
     print '\ntotal in trends top10 \n'
-    print keywords_stats_multiyears.head(10)
+    print keywords_stats_multiyears.head(20)
     print ' \ntotal in trends last10 \n'
     print keywords_stats_multiyears.tail(10)
 
@@ -147,37 +183,44 @@ def author_stats_horizon(df, horizon):
 if __name__ == "__main__":
     country_list = ['China', 'USA', 'England', 'Wales', 'Scotland', 'Edinburgh']
 
-meta_data_file = r'metadata\ieee_sg_all.txt'
+# meta_data_file = r'metadata\ieee_sg_all.txt'
+meta_data_file = r'metadata\ieee_ps_sg_all.txt' # combination of ps and sg
 literature = literature_stats(meta_data_file)
-ieee_ps = literature
-ieee_ps.to_csv('stats_output\ieee_sg_dirt.csv')
+ieee = literature
+
+select_ = ieee[ieee['Country'] == 'USA']['University'].value_counts()
+select_.to_csv('USA universities stats')
+print(select_[select_>1].nlargest(20))
+# plot_stat(ieee[ieee['Country'] == 'USA']['University'].value_counts(), 5) #todo: function to be fixed
+# ieee.to_csv('stats_output\ieee_sg_dirt.csv')
+ieee.to_csv('stats_output\ieee_comb.csv')
 #
 # frac = min(len(ieee_ps) * 0.05, 20)
 # ieee_ps.dropna(thresh=frac, axis=1, inplace=True)
 # ieee_ps.to_csv('stats_output\ieee_sg_clean.csv')
 
-ieee_ps = pd.read_csv('stats_output\ieee_ps_clean.csv', header=0)
+ieee = pd.read_csv('stats_output\ieee_clean.csv', header=0)
 horizon = list(range(2011, 2017, 1))
 # horizon = [str(n) for n in horizon] # for smart grid metadata
-keywords_stats_horizon(ieee_ps, horizon)
-author_stats(ieee_ps, country_list)
+keywords_stats_horizon(ieee, horizon)
+author_stats(ieee, country_list)
 
 # todo: one shot run
-# ieee_ps['Year'] = ieee_ps['Year'].astype(np.int64)
+# ieee['Year'] = ieee['Year'].astype(np.int64)
 
-# meta_data_file = r'metadata\ieee_ps_2015.txt'
+# meta_data_file = r'metadata\ieee_2015.txt'
 # literature_2015 = literature_stats(meta_data_file)
 # keywords_2015 = keywords_stats(literature_2015)
 # author_stats(literature_2015, country_list)
 # keywords_2015.to_csv('stats_output\keywords_2015.csv')
 
 
-# meta_data_file = r'metadata\ieee_ps_2016.txt'
+# meta_data_file = r'metadata\ieee_2016.txt'
 # literature_2016 = literature_stats(meta_data_file)
 # keywords_2016 = keywords_stats(literature_2016)
 # author_stats(literature_2016, country_list)
 #
-# meta_data_file = r'metadata\ieee_ps_2013.txt'
+# meta_data_file = r'metadata\ieee_2013.txt'
 # literature_2013 = literature_stats(meta_data_file)
 # keywords_2013 = keywords_stats(literature_2013)
 # author_stats(literature_2013, country_list)
@@ -203,7 +246,7 @@ author_stats(ieee_ps, country_list)
 
 # stats_outputs = r'metadata\paper\ieee_stats_all - clean.csv'
 # stats_outputs = r'metadata\paper\ieee_stats_all - clean.csv'
-# ieee_ps = pd.read_csv(stats_outputs,header=0)
+# ieee = pd.read_csv(stats_outputs,header=0)
 
 # horizon = [2008, 2009, 2010,2011,2012,2013,2014,2015,2016]
 # horizon = [2015,2016]
