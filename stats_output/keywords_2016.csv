@@ -1,0 +1,2049 @@
+generation,52.0
+systems,43.0
+optimization,41.0
+model,33.0
+power-systems,32.0
+algorithm,30.0
+wind power,29.0
+unit commitment,29.0
+uncertainty,25.0
+robust optimization,25.0
+design,24.0
+energy,22.0
+system,22.0
+security,20.0
+electricity market,18.0
+power,17.0
+distribution networks,17.0
+stability,16.0
+management,16.0
+stochastic programming,16.0
+demand response,16.0
+small-signal stability,15.0
+energy storage,15.0
+optimal power flow,15.0
+flow,14.0
+transient stability,14.0
+power-system,14.0
+identification,14.0
+electricity markets,14.0
+storage,13.0
+wind,13.0
+optimal power-flow,12.0
+voltage stability,12.0
+distributed generation,12.0
+stochastic optimization,12.0
+reliability,11.0
+integration,11.0
+impact,11.0
+load,11.0
+demand,11.0
+state estimation,10.0
+operation,10.0
+electric vehicles,10.0
+droop control,10.0
+power system stability,10.0
+frequency control,10.0
+models,10.0
+network,10.0
+simulation,10.0
+coordination,9.0
+market,9.0
+dispatch,9.0
+voltage control,9.0
+constraints,9.0
+networks,9.0
+distribution-systems,9.0
+economic dispatch,9.0
+phasor measurement unit (pmu),9.0
+particle swarm optimization,9.0
+phasor measurement units,9.0
+frequency,8.0
+penetration,8.0
+oscillations,8.0
+inter-area oscillations,8.0
+strategies,8.0
+enhancement,7.0
+constrained unit commitment,7.0
+energy-storage,7.0
+power system reliability,7.0
+power system dynamics,7.0
+smart grid,7.0
+energy management,7.0
+sensitivity-analysis,7.0
+wind power uncertainty,7.0
+decentralized control,6.0
+power system economics,6.0
+electricity,6.0
+facts devices,6.0
+collapse,6.0
+microgrids,6.0
+phasor measurements,6.0
+mixed-integer linear programming,6.0
+implementation,6.0
+sensitivity analysis,6.0
+load frequency control,6.0
+optimization methods,6.0
+reconfiguration,6.0
+transmission,6.0
+time,5.0
+dynamics,5.0
+wind generation,5.0
+battery,5.0
+decomposition,5.0
+dynamic state estimation,5.0
+reduction,5.0
+wind power-generation,5.0
+frequency response,5.0
+power flow analysis,5.0
+uncertainties,5.0
+units,5.0
+framework,5.0
+power system,5.0
+hvdc,5.0
+sensitivity,5.0
+generators,5.0
+microgrid,5.0
+voltage,5.0
+renewable generation,5.0
+service restoration,5.0
+benders decomposition,5.0
+grids,5.0
+plants,5.0
+power-flow,5.0
+power system control,5.0
+differential evolution,4.0
+part i,4.0
+support,4.0
+capacity,4.0
+reactive power,4.0
+fed induction generator,4.0
+markets,4.0
+renewable energy,4.0
+loss reduction,4.0
+impacts,4.0
+turbines,4.0
+economic-dispatch,4.0
+spinning reserve,4.0
+stochastic security,4.0
+placement,4.0
+network reconfiguration,4.0
+power system security,4.0
+voltage source converter (vsc),4.0
+genetic algorithm,4.0
+allocation,4.0
+voltage collapse,4.0
+multi-objective optimization,4.0
+control strategy,4.0
+islanded microgrids,4.0
+power systems,4.0
+generator,4.0
+power generation dispatch,4.0
+converters,4.0
+smart grids,4.0
+wind power variability,4.0
+strategy,4.0
+cost,4.0
+scuc,4.0
+controllers,3.0
+formulation,3.0
+cascading failures,3.0
+distributed algorithms,3.0
+distributed cooperative control,3.0
+optimal control,3.0
+regression,3.0
+game,3.0
+frequency stability,3.0
+frequency deviation,3.0
+sparsity,3.0
+optimal power flow (opf),3.0
+controller,3.0
+generation scheduling,3.0
+n-1 security,3.0
+distributed optimization,3.0
+subsynchronous resonance,3.0
+damping controller,3.0
+services,3.0
+devices,3.0
+scenario reduction,3.0
+risk,3.0
+demand-side management,3.0
+nsga-ii,3.0
+flexibility,3.0
+offshore wind farms,3.0
+mixed-integer programming,3.0
+model-predictive control,3.0
+decision trees,3.0
+distribution network,3.0
+computation,3.0
+reserves,3.0
+challenges,3.0
+congestion management,3.0
+dc microgrid,3.0
+genetic algorithms,3.0
+monte carlo simulation,3.0
+direct load control,3.0
+selection,3.0
+contingency analysis,3.0
+neural network,3.0
+reliability evaluation,3.0
+competition,3.0
+reliability assessment,3.0
+mixed integer linear programming,3.0
+corrective control,3.0
+line,3.0
+power system dynamic stability,3.0
+wind farm,3.0
+dominant poles,3.0
+parallel computing,3.0
+validation,3.0
+power system analysis computing,3.0
+instability,3.0
+algorithms,3.0
+wide-area control,3.0
+eigenvalues,3.0
+dual decomposition,3.0
+load flow,3.0
+investment,3.0
+primary frequency control,3.0
+parameters,3.0
+load control,3.0
+machine,3.0
+transmission switching,3.0
+performance,3.0
+loss minimization,3.0
+estimation,3.0
+voltage stability margin,3.0
+probability,3.0
+energy storage system (ess),3.0
+linear programming,3.0
+adequacy assessment,3.0
+inertia,3.0
+losses,3.0
+probabilistic forecasts,3.0
+power system monitoring,3.0
+power system operations,3.0
+wind farms,3.0
+automatic generation control,3.0
+transient stability analysis,3.0
+topology control,3.0
+lasso,3.0
+bidding strategies,3.0
+bifurcation,3.0
+power generation economics,3.0
+expert-system,3.0
+margin,3.0
+tool,3.0
+tracking,3.0
+distribution system,3.0
+ancillary service,3.0
+blackout,3.0
+time-series,3.0
+power distribution,3.0
+power transmission,3.0
+load management,3.0
+expansion,3.0
+transient,3.0
+transformation,3.0
+kalman filter,3.0
+distribution systems,3.0
+prediction,3.0
+power-system stability,3.0
+electromechanical modes,3.0
+transfer capability,3.0
+day-ahead market,2.0
+power system transients,2.0
+power system planning,2.0
+noise,2.0
+power system transient stability,2.0
+power systems modeling,2.0
+energy systems,2.0
+data mining,2.0
+eigenvalue,2.0
+dc power flow,2.0
+non-convexities,2.0
+power system restoration,2.0
+semidefinite programming,2.0
+power system stabilizer (pss),2.0
+distribution network reconfiguration,2.0
+power system dynamic simulation,2.0
+power system oscillations,2.0
+plug-in electric vehicle,2.0
+power distribution-systems,2.0
+power dispatch,2.0
+electromechanical oscillations,2.0
+n-1 contingency,2.0
+power capacitors,2.0
+frequency regulation,2.0
+criteria,2.0
+singular value decomposition,2.0
+pmu placement,2.0
+nash equilibrium,2.0
+pmu,2.0
+energy markets,2.0
+electric-power systems,2.0
+natural-gas,2.0
+power system optimization,2.0
+electric water heaters,2.0
+side management,2.0
+short-term voltage stability,2.0
+electric vehicles (evs),2.0
+short-term load forecasting,2.0
+efficient identification,2.0
+network expansion,2.0
+formulations,2.0
+energy storage system,2.0
+forecasting,2.0
+power system modeling,2.0
+damping,2.0
+damping control,2.0
+eigen-analysis,2.0
+environment,2.0
+efficient computation,2.0
+operational flexibility,2.0
+operations research,2.0
+pade approximants,2.0
+renewable energy integration,2.0
+pss,2.0
+parameter estimation,2.0
+renewable integration,2.0
+fault diagnosis,2.0
+dg,2.0
+proportional-integral (pi) control,2.0
+prony analysis,2.0
+openmp,2.0
+fault location,2.0
+requirements,2.0
+reserve,2.0
+quantile regression,2.0
+output regulation,2.0
+relaxation methods,2.0
+farms,2.0
+reinforcement learning,2.0
+failures,2.0
+distributed algorithm,2.0
+distribution-system,2.0
+distribution system reliability,2.0
+lagrangian-relaxation,2.0
+distributed energy resources,2.0
+refrigeration,2.0
+extreme learning-machine,2.0
+distributed generation (dg),2.0
+reactive power control,2.0
+real-time market,2.0
+distribution feeders,2.0
+reserve market,2.0
+residential distribution-systems,2.0
+efficiency,2.0
+phasor measurement unit,2.0
+number,2.0
+dynamic programming,2.0
+pricing,2.0
+optimal scheduling,2.0
+price-maker,2.0
+nonlinear programming,2.0
+prediction intervals,2.0
+dfig,2.0
+search,2.0
+decision tree,2.0
+power-generation,2.0
+second-order cone programming,2.0
+secondary control,2.0
+photovoltaic generation,2.0
+primary frequency response,2.0
+robustness,2.0
+demand response (dr),2.0
+filter,2.0
+epsilon-constraint method,2.0
+robust design,2.0
+robust,2.0
+risk management,2.0
+demand side management,2.0
+equilibrium,2.0
+probabilistic power flow,2.0
+restructured electricity markets,2.0
+restoration,2.0
+dynamic economic dispatch,2.0
+resources,2.0
+deviation,2.0
+programs,2.0
+reactive power-control,2.0
+future,2.0
+modal-analysis,2.0
+variability,2.0
+approximate dynamic programming,2.0
+mixed-integer linear programming (milp),2.0
+variable selection,2.0
+load-flow,2.0
+synchronized phasor measurements,2.0
+area,2.0
+coherency identification,2.0
+load-frequency control,2.0
+modeling,2.0
+heuristics,2.0
+mixed integer programming,2.0
+loadability,2.0
+value-at-risk,2.0
+location,2.0
+synchrophasors,2.0
+user comfort,2.0
+load shifting,2.0
+load shedding,2.0
+ancillary services,2.0
+commitment,2.0
+model predictive control,2.0
+load flow analysis,2.0
+complementarity modeling,2.0
+load flow control,2.0
+voltage regulation,2.0
+voltage instability,2.0
+subject,2.0
+load frequency control (lfc),2.0
+subspace acceleration,2.0
+alternating direction method of multipliers (admm),2.0
+vehicles,2.0
+mode estimation,2.0
+communication delays,2.0
+common information model (cim),2.0
+supercapacitors,2.0
+high voltage direct current (hvdc),2.0
+locational marginal price,2.0
+minimization,2.0
+transmission expansion planning,2.0
+transmission expansion,2.0
+transmission constraints,2.0
+time series,2.0
+boundaries,2.0
+time-delay,2.0
+market designs,2.0
+market clearing,2.0
+bilevel programming,2.0
+battery energy storage system,2.0
+bifurcation-analysis,2.0
+bidding strategy,2.0
+battery energy-storage,2.0
+battery storage,2.0
+benefits,2.0
+benders' decomposition,2.0
+time delay,2.0
+importance sampling,2.0
+unit commitment problem,2.0
+low-frequency oscillation,2.0
+classification,2.0
+circuit analysis,2.0
+system reliability,2.0
+uncertainty quantification,2.0
+automatic-generation control,2.0
+mechanism design,2.0
+cascading outages,2.0
+transmission-lines,2.0
+thermal unit commitment,2.0
+thermostatically controlled loads,2.0
+transmission topology optimization,2.0
+matrix completion,2.0
+mathematical programming,2.0
+mathematical program with equilibrium constraints (mpec),2.0
+mathematic program with equilibrium constraints (mpec),2.0
+strategic bidding,2.0
+trajectory sensitivities,2.0
+wind integration,2.0
+monte-carlo-simulation,2.0
+contracts,2.0
+stability analysis,2.0
+wind energy,2.0
+wind power integration,2.0
+multi-objective,2.0
+contingencies,2.0
+islanded microgrid,2.0
+multiagent system,2.0
+stabilization,2.0
+contingency,2.0
+stabilizers,2.0
+game theory,2.0
+inverter,2.0
+contingency screening,2.0
+inverters,2.0
+wide area monitoring,2.0
+multi-agent system,2.0
+investment decisions,2.0
+multi-agent systems,2.0
+multi-area power systems,2.0
+statcom,2.0
+weak grid,2.0
+wide-area measurement system (wams),2.0
+ac,2.0
+ssr,2.0
+islanding,2.0
+multiple solutions,2.0
+modular multilevel converter (mmc),2.0
+speed,2.0
+wind turbine,2.0
+wind turbine generator (wtg),2.0
+stochastic subspace identification,2.0
+global optimization,2.0
+linear matrix inequalities,2.0
+consensus,2.0
+convergence,2.0
+steady-state security,2.0
+isolated power systems,2.0
+in electric vehicles,1.0
+energy functions,1.0
+islands,1.0
+in hybrid vehicles,1.0
+equivalent nodal analysis,1.0
+indexes,1.0
+estimation technique,1.0
+energy function,1.0
+industrial bitumen tanks,1.0
+ercot system,1.0
+errors,1.0
+indirect field oriented control,1.0
+iteration,1.0
+error,1.0
+index,1.0
+interarea oscillations,1.0
+energy bids,1.0
+energy exchange,1.0
+event location,1.0
+excitation control,1.0
+laboratory-scale microgrid,1.0
+lab,1.0
+l-q norm,1.0
+exchange-based model,1.0
+end-of-life failure,1.0
+example,1.0
+evolutionary algorithms,1.0
+krylov-schur method,1.0
+evidential reasoning (er),1.0
+impedance,1.0
+event trees,1.0
+kalman filters,1.0
+improve voltage profile,1.0
+joint state-parameter estimation,1.0
+joint probability distribution,1.0
+implicit auctions,1.0
+event detection,1.0
+energy and reserve dispatch,1.0
+evaluation index,1.0
+europe,1.0
+importance,1.0
+energy and reserve scheduling,1.0
+estimator,1.0
+energy margin,1.0
+energy efficiency,1.0
+equivalent input disturbance (eid),1.0
+environments,1.0
+industrial voltage-sensitive load,1.0
+inter-connected power system,1.0
+integrated exchange flow based model,1.0
+imbalances,1.0
+interval optimization,1.0
+energy storage management,1.0
+energy storage operation,1.0
+integrated network,1.0
+integration of renewables,1.0
+intelligent agents,1.0
+inter-area oscillation modes,1.0
+interruptible loads,1.0
+interruptible load,1.0
+energy-loss computation,1.0
+energy-storage system,1.0
+internal dynamics,1.0
+energy-conversion systems,1.0
+energy transaction,1.0
+intermittent generation balancing,1.0
+interconnection,1.0
+energy trading,1.0
+energy theft,1.0
+inter-temporal optimization,1.0
+inter-tso coordination,1.0
+interconnected power system,1.0
+interaction protocol,1.0
+integer programming-problems,1.0
+intuitiveness,1.0
+equal area criterion,1.0
+input-output analysis,1.0
+inertial constant,1.0
+islanding identification,1.0
+epsilon decomposition,1.0
+inertial response,1.0
+inference,1.0
+epistemic uncertainty,1.0
+energy market,1.0
+infinitesimal generator discretization,1.0
+information,1.0
+islanded operation,1.0
+interactive fuzzy satisfying method,1.0
+entergy,1.0
+invalid capacity,1.0
+island power systems,1.0
+instability monitoring,1.0
+insular power systems,1.0
+ensemble method,1.0
+island,1.0
+ensemble,1.0
+irradiance variability,1.0
+insulation,1.0
+integer linear programming,1.0
+integer lp model,1.0
+energy-storage systems,1.0
+empirical mode decomposition,1.0
+hybrid power stations,1.0
+excitation voltage control,1.0
+gradient-projection methods,1.0
+flexible transmission,1.0
+flexible transmission line impedance,1.0
+flocking,1.0
+governor loops,1.0
+global sensitivity-analysis,1.0
+flow batteries,1.0
+global power flow,1.0
+flow problem,1.0
+germ,1.0
+flows,1.0
+fluctuations,1.0
+fly optimization algorithm,1.0
+generic rms model,1.0
+flywheel energy storage system,1.0
+flywheel energy-storage,1.0
+flexible ramping product,1.0
+flexible ramp,1.0
+forced oscillation,1.0
+granular neural network,1.0
+grid to vehicle,1.0
+financial distress model,1.0
+grid technologies,1.0
+fixed point theorem,1.0
+fixed series capacitor (fsc),1.0
+fixed-speed,1.0
+grid regulation,1.0
+grid frequency regulation (gfr) ancillary service,1.0
+flatness,1.0
+greedy algorithms,1.0
+flexibility index,1.0
+flexibility metrics,1.0
+flexible ac transmission system,1.0
+flexible ac transmission systems,1.0
+graph theory,1.0
+generator terminal subsynchronous damping controller (gtsdc),1.0
+forced oscillations,1.0
+field-oriented control,1.0
+gas turbines,1.0
+frequency performance criteria,1.0
+game approach,1.0
+gain scheduling,1.0
+fuzzy-logic,1.0
+frequency scan,1.0
+fuzzy logic system (fls),1.0
+fuzzy logic controller (flc),1.0
+frequency transients,1.0
+frequency-dependent network equivalents,1.0
+fuzzy logic control,1.0
+frequency-domain model,1.0
+frequency-load control,1.0
+function equilibrium,1.0
+fuzzy adaptive inference,1.0
+functional observer,1.0
+game-theory,1.0
+frequency dynamics,1.0
+generator coherency,1.0
+frequency domain decomposition,1.0
+forecast error,1.0
+generation trajectory,1.0
+forecast uncertainty,1.0
+generation maintenance scheduling,1.0
+generation curtailment,1.0
+fourier transform (ft),1.0
+generation and transmission reliability,1.0
+fourier transformation,1.0
+fourier-transform,1.0
+generation adjustment,1.0
+generalized state observer (gso),1.0
+fpga applications in power laboratory,1.0
+generalized benders decomposition,1.0
+gaussian mixture models,1.0
+gaussian approximation filter,1.0
+finance,1.0
+group availability,1.0
+exciter,1.0
+extensions,1.0
+fuzzy,1.0
+external equivalents,1.0
+extreme events,1.0
+hybrid particle swarm optimization (hpso),1.0
+extreme learning machine,1.0
+extreme machine learning,1.0
+hybrid method,1.0
+factor model,1.0
+factor models,1.0
+hybrid energy-storage,1.0
+hybrid energy storage,1.0
+hybrid differential evolution,1.0
+facts controllers,1.0
+hybrid ac/dc microgrids,1.0
+hvdc transmission,1.0
+external agent,1.0
+hybrid simulation,1.0
+hurricanes,1.0
+hydro power generation,1.0
+imbalance settlement,1.0
+expansion co-planning,1.0
+exploiting sparsity,1.0
+identification of line outages,1.0
+exponential stability,1.0
+extended kalman filter,1.0
+extended kalman filtering,1.0
+identification of critical buses,1.0
+extended linear quadratic regulator,1.0
+hydrothermal power generation,1.0
+extended ward equivalent,1.0
+hydroelectric plant,1.0
+hydro unit commitment and loading problem,1.0
+hydro pumping storage,1.0
+extension,1.0
+failure,1.0
+false data injection,1.0
+field test,1.0
+hierarchical control,1.0
+hierarchical clustering,1.0
+fault-location,1.0
+heuristic-search approach,1.0
+features,1.0
+heuristic search reduction,1.0
+feedback,1.0
+heuristic algorithm,1.0
+feedback control system,1.0
+heating,1.0
+heat balance equation (hbe),1.0
+feeder reconfiguration,1.0
+h-infinity control,1.0
+feedforward approach,1.0
+group search optimizer with multiple producers (gsomp),1.0
+group search optimizer,1.0
+fault section,1.0
+fault ride-through,1.0
+hurricane gustav,1.0
+hierarchical unit commitment,1.0
+hourly demand response,1.0
+hopf bifurcation,1.0
+home,1.0
+holomorphic series method,1.0
+holomorphic embedding,1.0
+histogram control,1.0
+fast transient stability assessment,1.0
+high-voltage dc (hvdc) systems,1.0
+fault current limiters,1.0
+high-performance computing,1.0
+high wind power penetration,1.0
+high voltage direct current (hvdc) transmission control,1.0
+fault indicator,1.0
+fault induced delayed voltage recovery,1.0
+high side voltage control,1.0
+emulated inertia,1.0
+distribution system reconfiguration,1.0
+emissions,1.0
+chance-constrained programing,1.0
+charge,1.0
+charge and discharge schedules,1.0
+chebyshev discretization,1.0
+china,1.0
+circuit-breakers,1.0
+cluster-analysis,1.0
+clustering method,1.0
+clustering techniques,1.0
+co-optimization,1.0
+coal,1.0
+coalition-formation,1.0
+coefficient optimization,1.0
+coefficients,1.0
+cogeneration,1.0
+cogeneration unit,1.0
+coherence,1.0
+coherency detection,1.0
+coherent generators,1.0
+cold load pick-up,1.0
+cold load pickup,1.0
+collocation method,1.0
+combined cycle unit,1.0
+combined heat,1.0
+characteristic roots,1.0
+chance constrained optimization,1.0
+combined lower upper bound estimation (lube),1.0
+centralized control,1.0
+bounds,1.0
+branch-and-cut,1.0
+branch-exchange,1.0
+bridge type fcl,1.0
+bss,1.0
+build,1.0
+building hvac systems,1.0
+cable thermal model,1.0
+california iso,1.0
+california iso energy market,1.0
+capacitor banks,1.0
+capacitor switching,1.0
+capacitors,1.0
+capacity allocation,1.0
+capacity planning,1.0
+capacity usage identification,1.0
+capacity value,1.0
+cascading failure,1.0
+cascading outage,1.0
+cdf,1.0
+center of inertia (coi),1.0
+center of the inertia (coi),1.0
+centralized auction,1.0
+combined heat and power (chp),1.0
+combined-cycle units,1.0
+blackout restoration,1.0
+constraint handling,1.0
+continental europe (ce),1.0
+contingency ranking,1.0
+contingency ranking by means of lowest damping ratio,1.0
+contingency selection,1.0
+continuation,1.0
+continuation power-flow,1.0
+continuous time markov chain,1.0
+continuous-time function space,1.0
+contract design,1.0
+control actions,1.0
+control ancillary services,1.0
+control design,1.0
+control devices,1.0
+control group,1.0
+control scheme,1.0
+control strategies,1.0
+control systems,1.0
+controllable capacitor,1.0
+controlled braking resistor,1.0
+controlled series capacitor,1.0
+controller design,1.0
+converter,1.0
+convex,1.0
+consumption,1.0
+constrained optimization,1.0
+comfort of building occupants,1.0
+conjectured supply functions,1.0
+commercial software packages,1.0
+commitment problem,1.0
+common mode,1.0
+communication time delays,1.0
+commutation failure,1.0
+commutation failures,1.0
+compensated power-system,1.0
+complementarity,1.0
+complementarity conditions,1.0
+complementarity constraint,1.0
+complementary constraint,1.0
+completions,1.0
+complex dynamical network,1.0
+composite load model,1.0
+compressed air energy storage (caes),1.0
+compressive sensing,1.0
+computational complexity,1.0
+computational geometry,1.0
+computer,1.0
+conditional value at risk (cvar),1.0
+conditional value-at-risk,1.0
+congestion relief,1.0
+conic optimization,1.0
+bound tightening,1.0
+bipolar dc distribution,1.0
+emergency control,1.0
+adaptive phasor,1.0
+adaptive voltage control,1.0
+adaptive-control architecture,1.0
+additive model,1.0
+adequacy,1.0
+adequacy and security analyses,1.0
+admittance,1.0
+admittance matrix,1.0
+adomian decomposition,1.0
+advanced metering infrastructure,1.0
+affine policies,1.0
+affine policy,1.0
+affine projection algorithm,1.0
+ageing,1.0
+ageing distribution cable,1.0
+aggregate demand response capacity,1.0
+aggregate model,1.0
+aggregated demand response,1.0
+aggregation,1.0
+aggregator,1.0
+aleatory uncertainty,1.0
+algebraic equations,1.0
+all-electric ship,1.0
+alternating current optimal power flow (acopf),1.0
+adaptive relay,1.0
+adaptive load shedding scheme,1.0
+aluminum electrolysis,1.0
+adaptive control,1.0
+2nd-order cone,1.0
+3-phase power-flow,1.0
+8-zone iso-ne test system,1.0
+ac microgrids,1.0
+ac model,1.0
+ac optimal power flow,1.0
+ac power flow,1.0
+ac supply-systems,1.0
+ac/dc loads,1.0
+ac/dc power-flow,1.0
+ac/dc systems,1.0
+accelerated proximal gradient,1.0
+active damping,1.0
+active distribution grid,1.0
+active distribution grids,1.0
+active distribution network,1.0
+active distribution networks,1.0
+active disturbance rejection control (adrc),1.0
+active management schemes,1.0
+active network management,1.0
+active power sharing,1.0
+actual frequency response characteristic,1.0
+adaptive automatic generation control,1.0
+alternating direction method of multipliers,1.0
+aluminum production,1.0
+binomial trial,1.0
+autonomous operation,1.0
+autoregressive processes,1.0
+available transfer capability,1.0
+average consensus,1.0
+backward/forward reduction,1.0
+backward/forward sweep (bfs) algorithm,1.0
+bad data,1.0
+balancing authority area model,1.0
+balancing market,1.0
+bang-bang excitation controller,1.0
+bang-bang governor,1.0
+banks,1.0
+baseline estimation,1.0
+batteries,1.0
+battery degradation,1.0
+battery energy storage (bes),1.0
+battery energy storage system (bess),1.0
+battery systems,1.0
+benders decomposition method,1.0
+bias,1.0
+big data analytics,1.0
+big-m,1.0
+bilateral transactions,1.0
+bilevel optimization,1.0
+autoregressive modeling,1.0
+autonomous microgrids,1.0
+ambient data,1.0
+automatic generation control (agc),1.0
+ampacity,1.0
+amplification,1.0
+analytic continuation,1.0
+analytical modeling,1.0
+ancillary services markets,1.0
+ann,1.0
+anomalous critical clearing time,1.0
+approximation,1.0
+approximation algorithms,1.0
+approximations,1.0
+area control error (ace),1.0
+areas's frequency response characteristic,1.0
+arrhenius model,1.0
+art,1.0
+artificial intelligence,1.0
+artificial neural-networks,1.0
+asset management,1.0
+assignment,1.0
+augmented lagrangian,1.0
+australian electricity market,1.0
+auto correlation coefficient (acc),1.0
+auto regressive integrated moving average (arima),1.0
+autocorrelation,1.0
+convex formulation,1.0
+convex optimization,1.0
+convex quadratic optimization,1.0
+distribution system unbalances,1.0
+distribution-system restoration,1.0
+distributionally robust,1.0
+distributionally robust optimization,1.0
+distributions,1.0
+disturbance location,1.0
+domain decomposition method,1.0
+domain decomposition methods,1.0
+domain responses,1.0
+doubly fed induction generator,1.0
+doubly fed induction generator (dfig),1.0
+doubly-fed induction generator,1.0
+doubly-fed induction generator (dfig),1.0
+downside risk,1.0
+dr aggregator behavior,1.0
+duality theory,1.0
+dumb charging,1.0
+duration indexes,1.0
+dynamic analysis,1.0
+dynamic control,1.0
+dynamic correction,1.0
+dynamic event,1.0
+dynamic factor-analysis,1.0
+dynamic frequency responses,1.0
+distribution-system reconfiguration,1.0
+distribution system planning (dsp),1.0
+dynamic line rating,1.0
+distribution system planning,1.0
+distributed estimation,1.0
+distributed frequency control,1.0
+distributed generator,1.0
+distributed optimization and control,1.0
+distributed voltage control,1.0
+distributed-generation,1.0
+distributed-generation system,1.0
+distribution automation,1.0
+distribution automation (da),1.0
+distribution factors,1.0
+distribution feeder reconfiguration,1.0
+distribution management system,1.0
+distribution network investment,1.0
+distribution of oscillation energy,1.0
+distribution power system,1.0
+distribution state estimation,1.0
+distribution station,1.0
+distribution stations,1.0
+distribution system analysis,1.0
+distribution system expansion planning,1.0
+distribution system expansion planning (dsep),1.0
+distribution system modeling,1.0
+distribution system optimization,1.0
+dynamic gain-tuning control (dgtc),1.0
+dynamic line rating (dlr),1.0
+convex relaxation,1.0
+electric railway company (erc),1.0
+electric vehicle (ev),1.0
+electric vehicle (ev) charging,1.0
+electric vehicle batteries,1.0
+electric-power,1.0
+electric-vehicle,1.0
+electrical centrality,1.0
+electrical connectivity,1.0
+electrical distance,1.0
+electrical node significance,1.0
+electricity customers,1.0
+electricity demand,1.0
+electricity demand forecasting,1.0
+electricity price,1.0
+electricity prices,1.0
+electricity pricing,1.0
+electricity spot markets,1.0
+electricity-gas interaction,1.0
+electro-thermal coupling,1.0
+electrochemical capacitor energy storage (eces),1.0
+electromagnetic transient,1.0
+electromechanical oscillation modes,1.0
+electronics,1.0
+electrothermal coordination,1.0
+electric reliability council of texas (ercot),1.0
+electric power system,1.0
+dynamic load modeling,1.0
+electric power market,1.0
+dynamic models,1.0
+dynamic optimal power flow,1.0
+dynamic phasors,1.0
+dynamic pricing,1.0
+dynamic ratings,1.0
+dynamic security,1.0
+dynamic stability,1.0
+dynamic system stability,1.0
+dynamic var reserve,1.0
+dynamic voltage stability,1.0
+dynamic-analysis,1.0
+dynamic-models,1.0
+eb-to-charging-box assignment,1.0
+economic and self-schedule bids,1.0
+education,1.0
+effective distance to collapse,1.0
+efficiency loss,1.0
+eigenstructure assignment,1.0
+eigenvalue sensitivity,1.0
+electric energy markets,1.0
+electric heat pumps,1.0
+electric machines,1.0
+electric power distribution,1.0
+distributed energy-resources,1.0
+distributed energy storage (des),1.0
+distributed energy resource variability,1.0
+critical transitions,1.0
+cross-entropy method,1.0
+cross-gramian,1.0
+cubature kalman filter,1.0
+cumulants,1.0
+current control,1.0
+current injection method,1.0
+current injection model,1.0
+current-source converters,1.0
+customer choices on reliability (ccor),1.0
+customer classification,1.0
+cusum algorithm,1.0
+cyber-physical system,1.0
+cybersecurity,1.0
+daily load curves,1.0
+damping controllers,1.0
+damping interarea oscillations,1.0
+damping torque analysis (dta),1.0
+damping torque indices (dtis),1.0
+das,1.0
+data centers,1.0
+data driven,1.0
+data visualization,1.0
+day-ahead and intraday markets,1.0
+criticality,1.0
+critical slowing down,1.0
+distributed energy resource,1.0
+critical generators rescheduling,1.0
+cooperative game,1.0
+cooperative game theory,1.0
+coordinated charge and discharge schedules,1.0
+coordinated charging,1.0
+coordinated design,1.0
+coordinated optimization,1.0
+coordinated strategy (cs),1.0
+coordinated voltage control (cvc),1.0
+copula theory,1.0
+corrective security constrained optimal power flow (cscopf),1.0
+corrective security constrained optimal powerflow (cscopf),1.0
+corrective switching algorithm,1.0
+correlated reserve prices,1.0
+correlated wind,1.0
+corresponding loop flows,1.0
+cost and benefit study,1.0
+cost functions,1.0
+costs,1.0
+coupon-based demand response (c-dr),1.0
+cournot,1.0
+cournot game,1.0
+covariance,1.0
+critical area (ca),1.0
+day-ahead and real-time energy markets,1.0
+day-ahead prediction,1.0
+dc microgrids,1.0
+dc traction networks,1.0
+dependence on weather conditions,1.0
+detailed model,1.0
+detection,1.0
+device dependent sub-synchronous oscillations (ddso),1.0
+dfag wind turbine,1.0
+dfig-based wind generator,1.0
+dg allocation,1.0
+dg power factor,1.0
+diagnosis,1.0
+different distributions,1.0
+differential algebraic equation,1.0
+differential equations,1.0
+differential mode,1.0
+differential-algebraic equations,1.0
+digital taylor-fourier transform,1.0
+direct energy method,1.0
+direct load control (dlc),1.0
+direct projection method,1.0
+dispatchability,1.0
+distance based method,1.0
+distant wind farms,1.0
+distorted distribution networks,1.0
+distributed control,1.0
+denoising,1.0
+dempster-shafer evidence theory,1.0
+demand-based reserve,1.0
+delay,1.0
+dc voltage control,1.0
+decentralized,1.0
+decentralized electricity market,1.0
+decentralized optimization,1.0
+decentralized robust-control,1.0
+decentralized under frequency load shedding,1.0
+decision-making,1.0
+decomposition approach,1.0
+decomposition method,1.0
+deepening penetration of variable energy resources,1.0
+delay differential algebraic equations (ddaes),1.0
+demand response control,1.0
+delay margin,1.0
+delay-dependent stability,1.0
+delays,1.0
+demand bids,1.0
+demand blocks,1.0
+demand elasticity,1.0
+demand management,1.0
+demand reduction,1.0
+demand response (dr) programs,1.0
+demand response aggregator,1.0
+lagrangian dual problem,1.0
+zonal partitioning,1.0
+large power-systems,1.0
+small-signal instability,1.0
+single-machine non-infinite bus model,1.0
+singular perturbation theory,1.0
+sinusoids,1.0
+situational awareness,1.0
+skin effect,1.0
+sliding mode robust control,1.0
+small disturbance stability,1.0
+small signal stability,1.0
+small signal stability.,1.0
+small-gain theory,1.0
+small-signal analysis,1.0
+small-signal scrutiny,1.0
+solution infeasibility,1.0
+small-signal stability analysis,1.0
+small-signal stability problems,1.0
+smart,1.0
+smart meter,1.0
+smart microgrid,1.0
+smoothed particle hydrodynamics,1.0
+social welfare,1.0
+software framework,1.0
+solar irradiance forecasting,1.0
+solar power,1.0
+solar power generation,1.0
+simulations,1.0
+similar shape algorithms,1.0
+signals,1.0
+signal stability analysis,1.0
+semidefinite relaxations,1.0
+sensitive cluster (sc),1.0
+sequential analytical approach,1.0
+sequential monte carlo,1.0
+sequential start-up control,1.0
+series capacitor insertion,1.0
+series compensation,1.0
+service area,1.0
+shapelets,1.0
+shaping of drd,1.0
+shared-memory,1.0
+shiftable load,1.0
+shipboard power-system,1.0
+short circuit ratio,1.0
+short-circuit current,1.0
+short-term energy,1.0
+short-term load forecast,1.0
+short-term resilience,1.0
+short-term voltage phasor forecasting,1.0
+shunt capacitor banks,1.0
+sigmoid,1.0
+signal decomposition,1.0
+signal selection,1.0
+solid-state based power converters,1.0
+sparse grid interpolation,1.0
+stochastic security-constrained unit commitment,1.0
+steady-state stability,1.0
+static stability,1.0
+static synchronous compensator,1.0
+static synchronous compensator (statcom),1.0
+static var compensator,1.0
+static var compensator (svc),1.0
+static var compensators,1.0
+stations,1.0
+statistical analysis,1.0
+statistical linearization,1.0
+statistics,1.0
+steady-state,1.0
+stochastic,1.0
+sparse matrices,1.0
+stochastic and fuzzy uncertainties,1.0
+stochastic collocation,1.0
+stochastic control,1.0
+stochastic decomposition,1.0
+stochastic differential equation model,1.0
+stochastic dual dynamic programming,1.0
+stochastic mixed integer linear programming,1.0
+stochastic mixed-integer linear programming,1.0
+stochastic process,1.0
+stochastic processes,1.0
+stochastic response surface method,1.0
+state-queuing model,1.0
+state,1.0
+start-up costs,1.0
+standard flow-based model,1.0
+sparse optimization,1.0
+sparsity-promoting optimal control,1.0
+spatial averaging effect,1.0
+spatial branch and bound,1.0
+spatiotemporal kriging,1.0
+spectral clustering,1.0
+spectral graph theory,1.0
+spectral properties,1.0
+spectral-analysis,1.0
+spinning reserve requirements,1.0
+spinning reserve trading,1.0
+splines,1.0
+splitting strategies,1.0
+spot markets,1.0
+spot prices,1.0
+sqp,1.0
+ssci,1.0
+ssti,1.0
+stability criteria,1.0
+stability improvement,1.0
+stability performance,1.0
+stability status prediction,1.0
+standalone microgrid,1.0
+semidefinite program,1.0
+semi-supervised learning,1.0
+semi-parametric model,1.0
+remedial action schemes,1.0
+regions,1.0
+regular spare transformer,1.0
+regularization,1.0
+regulating reserve,1.0
+regulation,1.0
+regulation service,1.0
+regulation service and distributed algorithm,1.0
+regulator,1.0
+regulator parameters tuning,1.0
+relaxation,1.0
+relaxation induced,1.0
+remote controlled switch,1.0
+self-impedance,1.0
+renewable energy resources,1.0
+renewable energy sources,1.0
+renewable generations,1.0
+renewable power generation,1.0
+renewable sources,1.0
+renewable-based generation,1.0
+renewables integration,1.0
+replacement,1.0
+replacement planning,1.0
+representation,1.0
+representative feeders,1.0
+regenerative braking,1.0
+reference model based pss,1.0
+reduced-order synchronous generator model,1.0
+reduced bus impedance matrix,1.0
+reactive power dispatch,1.0
+reactive power support,1.0
+real,1.0
+real power flow,1.0
+real time digital simulator,1.0
+real time market,1.0
+real-time,1.0
+real-time contingency analysis,1.0
+real-time control,1.0
+real-time digital simulation,1.0
+real-time inertia estimation,1.0
+real-time measurements,1.0
+real-time optimal dispatch (rotd),1.0
+real-time wide area monitoring,1.0
+rebound peaks,1.0
+receiving-end power systems,1.0
+recognition,1.0
+recourse cost,1.0
+recovery,1.0
+rectangular coordinates,1.0
+recurrence quantification analysis,1.0
+recursive least square (rls),1.0
+redispatch,1.0
+reserve capacity,1.0
+reserve quantification,1.0
+reserves auctions,1.0
+scenario switching adjustment (ssa),1.0
+scenarios generation,1.0
+scenarios reduction,1.0
+scheduling,1.0
+scheduling algorithms,1.0
+scheme,1.0
+schur-complement,1.0
+sdp relaxations,1.0
+search algorithm,1.0
+second order probability,1.0
+second-life batteries,1.0
+second-order cone programming (socp),1.0
+second-order thermostatically controlled loads (tlcs),1.0
+secondary,1.0
+secondary frequency control,1.0
+secondary-voltage control,1.0
+security analysis,1.0
+security constrained unit commitment (scuc),1.0
+security-constrained optimal power flow,1.0
+security-constrained unit commitment (scuc),1.0
+segmented-time reactive power control,1.0
+segmented-time reconfiguration,1.0
+selecting method,1.0
+self-healing,1.0
+scenarios,1.0
+scale power-systems,1.0
+residential energy management,1.0
+salvage value,1.0
+residual demand curve,1.0
+residual temperature inequalities,1.0
+residues,1.0
+resonance,1.0
+resonator,1.0
+resource allocation,1.0
+response programs,1.0
+restoration problem,1.0
+retail tariffs for electricity,1.0
+rightmost eigenvalues,1.0
+rights,1.0
+ringdown analysis,1.0
+risk analysis,1.0
+risk assessment,1.0
+risk-based security,1.0
+robust rls methods,1.0
+robust scuc,1.0
+robust security-constrained unit commitment,1.0
+robust stabilizer,1.0
+robust unit commitment,1.0
+root-locus analysis,1.0
+rqa,1.0
+saddle-node,1.0
+stochastic search methods,1.0
+stochastic volatility,1.0
+reactive power (var) flow optimization,1.0
+vector autoregressive modeling,1.0
+valid inequality,1.0
+value assessment,1.0
+value of lost load,1.0
+var management,1.0
+var/voltage control,1.0
+variable forgetting factor,1.0
+variable generation,1.0
+variable speed heat pump (vshp),1.0
+variables,1.0
+varying loads,1.0
+vector autoregression,1.0
+vector control,1.0
+voltage congestion,1.0
+vector fitting,1.0
+vehicle to grid,1.0
+vehicle-to-grid,1.0
+vehicle-to-grid (v2g),1.0
+vehicle-to-grid (v2g) demand response,1.0
+vehicle-to-home (v2h),1.0
+ventilation and air-conditioning (hvac) loads,1.0
+virtual leave-one-out,1.0
+virtual power plant,1.0
+virtual power-plant,1.0
+visual data mining,1.0
+v2g,1.0
+uplift allocation,1.0
+unscented kalman filter,1.0
+under-frequency load shedding,1.0
+transmission capacity expansion planning,1.0
+transmission congestion,1.0
+transmission cost allocation,1.0
+transmission expansion planning (tep),1.0
+transmission maintenance scheduling,1.0
+transmission network constraints,1.0
+transmission networks,1.0
+transmission planning,1.0
+transmission system expansion planning,1.0
+transmission system investments,1.0
+transmission system optimization,1.0
+transmission-constrained market,1.0
+turbine,1.0
+two-stage robust scuc,1.0
+two-time-scale coordinated strategy,1.0
+type-2 fuzzy systems,1.0
+ultracapacitors,1.0
+unbalanced distribution system,1.0
+unbalanced distribution systems,1.0
+unbalanced disturbances,1.0
+unbalanced operation,1.0
+uncertain data,1.0
+under frequency load shedding (ufls),1.0
+volt/var control,1.0
+voltage dependent load modeling.,1.0
+strategic consumer,1.0
+wind power fluctuations,1.0
+wide area measurements,1.0
+wide area protection,1.0
+wide-area measurement system,1.0
+wide-area measurement systems (wams),1.0
+wide-area monitoring system (wams),1.0
+wide-area monitoring systems (wams),1.0
+wind energy integration,1.0
+wind farm (wf),1.0
+wind layer,1.0
+wind penetration,1.0
+wind penetration limit,1.0
+wind power forecast error,1.0
+voltage dynamics,1.0
+wind power generation,1.0
+wind power ramp control,1.0
+wind power ramp event,1.0
+wind production uncertainty,1.0
+wind speed,1.0
+wind speed forecasts,1.0
+wind speeds,1.0
+wind turbine generator,1.0
+wind turbines,1.0
+wind-integrated electricity market,1.0
+yule-walker method,1.0
+weighted sum method,1.0
+weibull stochastic process,1.0
+weather-based optimal power flow (wb-opf),1.0
+weather effects,1.0
+voltage feed forward (vff),1.0
+voltage management,1.0
+voltage regulators,1.0
+voltage source converter multi-terminal hvdc (vsc-mtdc),1.0
+voltage source converters (vsc),1.0
+voltage stability analysis,1.0
+voltage stability assessment,1.0
+voltage stability constrained optimal power flow (vscopf),1.0
+voltage stability enhancement,1.0
+voltage violation correction,1.0
+voltage-damping effect,1.0
+voltage-dependent loads,1.0
+voltage-source,1.0
+voltage-source converter,1.0
+vsc,1.0
+vulnerability,1.0
+vulnerability analysis,1.0
+wake,1.0
+wake-effect,1.0
+wams,1.0
+waveform relaxation,1.0
+wavelet transform,1.0
+weakly damped oscillation,1.0
+transient stability simulations,1.0
+transient stability simulation,1.0
+transient stability prediction,1.0
+synthetic inertia,1.0
+symmetrical component,1.0
+synchronization,1.0
+synchronized voltage measurements,1.0
+synchronous generator,1.0
+synchronous generator/motor,1.0
+synchronous machine,1.0
+synchronous phasor measurement units (pmus),1.0
+synchronous-machine models,1.0
+synchronverter,1.0
+synchrophasor measurement,1.0
+synchrophasor measurements,1.0
+system adequacy,1.0
+transient stability margin,1.0
+system dynamics,1.0
+system expansion planning,1.0
+system frequency,1.0
+system frequency response,1.0
+system frequency response (sfr) model,1.0
+system of systems,1.0
+system parameters,1.0
+system protection scheme,1.0
+system reliability evaluation,1.0
+system states,1.0
+system topology,1.0
+switching operation,1.0
+switching controller,1.0
+swings,1.0
+swarm optimization,1.0
+strategic offering,1.0
+strategic wind power producer,1.0
+stress,1.0
+sub-hourly dispatch,1.0
+sub-synchronous control interaction,1.0
+sub-synchronous interactions,1.0
+sub-synchronous oscillation,1.0
+subgradient methods,1.0
+subscription,1.0
+substation,1.0
+substation control automation,1.0
+substation criticality,1.0
+subsynchronous resonance (ssr),1.0
+successive linear programming,1.0
+successive linear programming (slp),1.0
+supercapacitor energy storage system,1.0
+superconducting magnetic energy storage (smes),1.0
+supplementary excitation damping controller (sedc),1.0
+supply function equilibrium,1.0
+supply restoration,1.0
+supply-demand bids,1.0
+support vector machine,1.0
+susceptance price,1.0
+tabu search,1.0
+takagi-sugeno-kang (tsk) systems,1.0
+tap changer,1.0
+time series analysis,1.0
+time-domain,1.0
+time-domain simulation,1.0
+time-series analysis,1.0
+time-series model,1.0
+time-shiftable loads,1.0
+time-varying delay,1.0
+time-varying frequency,1.0
+topologies,1.0
+topology errors,1.0
+topology identification,1.0
+torsional interaction,1.0
+torsional modes,1.0
+torsional oscillations,1.0
+total supply capability,1.0
+total transfer capability,1.0
+tou and cpp,1.0
+trajectory generation,1.0
+trajectory tracking,1.0
+transform,1.0
+transformer failure,1.0
+transformers,1.0
+transient response,1.0
+transient stability constraints,1.0
+time series models,1.0
+time point optimization,1.0
+taxonomy,1.0
+time optimal dispatch,1.0
+tcsc,1.0
+technological representation,1.0
+teed circuit,1.0
+term,1.0
+term transmission,1.0
+thermal life,1.0
+thermal management,1.0
+thermostatically controlled appliances,1.0
+thevenin equivalent,1.0
+three-phase distribution grids,1.0
+three-phase electric power,1.0
+three-wire bipolar hvdc,1.0
+thyristor controlled series capacitor,1.0
+thyristor controlled series capacitors (tcscs),1.0
+tidal current speed,1.0
+tidal power generation system (tpgs),1.0
+tie-line power,1.0
+tie-line scheduling,1.0
+tight mip formulation,1.0
+time delays,1.0
+time discretization,1.0
+time evolution,1.0
+time nonlinear-systems,1.0
+reactive power capacity,1.0
+reactive dispatch problem,1.0
+large-scale computations,1.0
+multi-stage estimator,1.0
+more-electric aircraft,1.0
+mpc,1.0
+multi-agent,1.0
+multi-agent system (mas),1.0
+multi-area power system,1.0
+multi-band power system stabilizer,1.0
+multi-band uncertainty set,1.0
+multi-frequency,1.0
+multi-infeed hvdc systems,1.0
+multi-segment optimal power flow (opf),1.0
+multi-source,1.0
+multi-stage substation expansion planning,1.0
+multiple hypotheses,1.0
+multi-terminal high voltage dc (hvdc) transmission,1.0
+multi-terminal hvdc (mtdc),1.0
+multi-timescale,1.0
+multiagent systems,1.0
+multimachine power systems,1.0
+multimachine power-systems,1.0
+multimachine systems,1.0
+multiobjective optimization,1.0
+multiobjective service restoration,1.0
+multiperiod auction,1.0
+multiphase systems,1.0
+monte-carlo,1.0
+monte carlo methods,1.0
+monte carlo,1.0
+moment matching,1.0
+mixed integer programing,1.0
+mixed integer quadratic programming,1.0
+mixed integer quadratic programming (miqp),1.0
+mixed integer recourse,1.0
+mixed integer second-order cone programming,1.0
+mixed-integer linear programming (mip),1.0
+mixed-integer linear programming formulation,1.0
+mixed-integer programming (milp),1.0
+mobile unit substation,1.0
+modal estimation,1.0
+modal kinetic energy participation factor,1.0
+mode,1.0
+mode meter,1.0
+mode-shape estimation,1.0
+model design,1.0
+model order reduction,1.0
+model order reduction (mor),1.0
+model predictive control (mpc),1.0
+model training,1.0
+model-reduction,1.0
+modified benders decomposition,1.0
+modified fruit fly optimization algorithm (mfoa),1.0
+modulation,1.0
+multiple delays,1.0
+multiple time-delay,1.0
+offering strategies,1.0
+nonconvex optimization,1.0
+neural-network,1.0
+neutral type,1.0
+newton-raphson method,1.0
+newton-raphson's method,1.0
+newtons method,1.0
+nodal ranking,1.0
+node-breaker model,1.0
+noise in communication channels,1.0
+non-critical area (na),1.0
+non-dominated sorting genetic algorithm (nsga-ii),1.0
+non-uniform mutation,1.0
+nonlinear controller,1.0
+multiport three-phase thevenin equivalent,1.0
+nonlinear damping,1.0
+nonlinear dynamic systems,1.0
+nonlinear estimation,1.0
+nonlinear interval optimization (nio),1.0
+nonlinear optimization,1.0
+nonlinear-systems,1.0
+normal distributions,1.0
+normalized participation factor,1.0
+nucleolus theory,1.0
+numerical analysis,1.0
+numerical-solution,1.0
+networked control,1.0
+network-constrained ac unit commitment,1.0
+network topology optimization,1.0
+network structure,1.0
+multistage,1.0
+multistage long-term planning,1.0
+multistage model,1.0
+multistage optimization,1.0
+multiterminal hvdc,1.0
+multiterminal hvdc (mtdc),1.0
+mutual information,1.0
+mvdc system,1.0
+n - k contingency,1.0
+n+1 buses equivalent,1.0
+n-1 criterion,1.0
+n-1 security criterion,1.0
+nash certainty equivalence principle,1.0
+natural disasters,1.0
+natural gas industry,1.0
+natural gas market,1.0
+natural gas network,1.0
+natural gas systems,1.0
+natural gas transmission system,1.0
+ncuc,1.0
+nerc reliability criteria,1.0
+network equivalencing,1.0
+network real-time thermal rating (rttr),1.0
+zero impedance branch,1.0
+mixed complementarity problem,1.0
+mixed approach,1.0
+load frequency control system,1.0
+linearization,1.0
+linearization error compensation,1.0
+linearized model,1.0
+link,1.0
+lmi conditions,1.0
+lms methods,1.0
+load block,1.0
+load center,1.0
+load dispatch,1.0
+load forecast,1.0
+load forecasting,1.0
+load margin,1.0
+mitigation,1.0
+load modeling,1.0
+load models,1.0
+load profile,1.0
+load serving entity,1.0
+load serving entity (lse),1.0
+load tap changer (ltc),1.0
+load uncertainties,1.0
+load-damping characteristic control,1.0
+loads,1.0
+locally ideal formulation,1.0
+locally weighted linear regression (lwlr),1.0
+linear multi-step (lms) methods,1.0
+linear matrix inequality,1.0
+linear integer programming,1.0
+linear distribution flow model,1.0
+large-scale photovoltaic park,1.0
+large-scale power system optimization,1.0
+large-scale power systems,1.0
+layout optimization,1.0
+lcc hvdc,1.0
+lcl-filter,1.0
+leader tracking synchronization,1.0
+least-squares regression,1.0
+levenberg's method,1.0
+levenberg-marquardt's method,1.0
+lfc,1.0
+limit cycle,1.0
+limited channel capacity,1.0
+line congestion,1.0
+line loading,1.0
+line maintenance and repair,1.0
+line outage,1.0
+line outage detection and identification,1.0
+line outage distribution factor,1.0
+line outages,1.0
+line switching,1.0
+linear analysis,1.0
+linear decision rules,1.0
+locational marginal prices,1.0
+locational marginal pricing (lmp),1.0
+look-ahead network topology,1.0
+market-based coordination,1.0
+markov chain,1.0
+markov model,1.0
+markov-chain models,1.0
+master-slave control,1.0
+matrix,1.0
+matrix splitting,1.0
+maximum loading point,1.0
+maximum power point tracking (mppt),1.0
+maximum-likelihood,1.0
+maximum-likelihood-estimation,1.0
+mcs,1.0
+measurement-based approach,1.0
+measurements-based,1.0
+memory,1.0
+merit order,1.0
+method of moments,1.0
+method of multipliers,1.0
+methodology,1.0
+micro combined heat and power,1.0
+microgrid islanding,1.0
+milp,1.0
+minimax regret,1.0
+missing data,1.0
+market-clearing model,1.0
+market pricing,1.0
+loss and emission reduction allocation,1.0
+market power,1.0
+loss-minimum reconfiguration,1.0
+loss-of-life,1.0
+low carbon technologies,1.0
+low frequency ac (lfac) transmission,1.0
+low frequency oscillations,1.0
+low rank,1.0
+low voltage,1.0
+low voltage distribution network,1.0
+low voltage networks,1.0
+low voltage ride through (lvrt),1.0
+low-inertia hybrid power system,1.0
+low-pass filter (lpf),1.0
+low-rank,1.0
+low-voltage networks,1.0
+lyapunov stability method,1.0
+lyapunov's function,1.0
+lyapunov-krasovskii functional,1.0
+machine learning,1.0
+machine models,1.0
+machines,1.0
+marginal costs,1.0
+market design,1.0
+market integration,1.0
+observability,1.0
+offering strategy,1.0
+rational modeling,1.0
+power systems operation,1.0
+power system models,1.0
+power system operation,1.0
+power system protection,1.0
+power system ringdowns,1.0
+power system scheduling,1.0
+power system security and risk analysis,1.0
+power system simulation,1.0
+power system simulator,1.0
+power system small-signal angular stability,1.0
+power system stability simulation,1.0
+power system stabilizer,1.0
+power transfer limit,1.0
+prediction error,1.0
+power transformer,1.0
+power transmission control,1.0
+power transmission economics,1.0
+power transmission reliability,1.0
+power-flow algorithm,1.0
+power-flow algorithms,1.0
+power-plant,1.0
+power-system observability,1.0
+power-system security,1.0
+power-system transient,1.0
+preconditioning,1.0
+power system management,1.0
+power system generation redispatch,1.0
+power system frequency regulation,1.0
+power system frequency control,1.0
+power loss,1.0
+power loss reduction,1.0
+power losses,1.0
+power market,1.0
+power markets,1.0
+power modeling,1.0
+power network partitioning,1.0
+power oscillation,1.0
+power oscillation damping,1.0
+power oscillation damping (pod),1.0
+power oscillations,1.0
+power plant temperatures,1.0
+power producers,1.0
+power quality,1.0
+power quality and pv inverter,1.0
+power simulation,1.0
+power smoothing,1.0
+power spectral density,1.0
+power spectrum density (psd),1.0
+power system disturbance,1.0
+power system dynamic modeling,1.0
+power system dynamic signature,1.0
+power system faults,1.0
+predator-prey system,1.0
+predictive cascade mitigation,1.0
+offshore wind,1.0
+quasi-steady-state models,1.0
+pss2b,1.0
+psss,1.0
+pumped-storage-systems,1.0
+pv,1.0
+pv inverters,1.0
+q-q plot,1.0
+q/p droop,1.0
+quadratic cost function,1.0
+quadratic time-frequency distributions,1.0
+quadrature rules,1.0
+quasi-dynamic,1.0
+quick-start units,1.0
+predictor-corrector,1.0
+quickest change detection,1.0
+radial-distribution networks,1.0
+railway systems,1.0
+railways,1.0
+ramp constraints,1.0
+ramping delivery,1.0
+ramping trajectory,1.0
+random vector forward link (rvfl),1.0
+ranking,1.0
+rate of change of frequency,1.0
+rational approximation,1.0
+pso,1.0
+protection,1.0
+prosumer,1.0
+projection pursuit (pp),1.0
+preventive control selection and coordination,1.0
+price bids,1.0
+price-maker economic bidding,1.0
+pricing algorithm,1.0
+primary frequency regulation,1.0
+primary transformer,1.0
+principal components,1.0
+priority customers,1.0
+privacy,1.0
+probabilistic analysis,1.0
+probabilistic interval delays,1.0
+probabilistic load-flow,1.0
+probabilistic methods,1.0
+probabilistic modeling,1.0
+probabilistic optimal power flow (popf),1.0
+probabilistic small-signal stability,1.0
+probability-distributions,1.0
+producer,1.0
+producers,1.0
+profit-at-risk,1.0
+programming algorithm,1.0
+programming method,1.0
+prohibited operating zone,1.0
+power injection model,1.0
+power grid monitoring,1.0
+power generation planning,1.0
+oscillation diagnostics,1.0
+optimal placement,1.0
+optimal planning,1.0
+optimal pmu placement,1.0
+optimal portfolio operation,1.0
+optimal reclosing,1.0
+optimal transmission switching,1.0
+optimization models,1.0
+optimization problems,1.0
+orthogonal decomposition,1.0
+oscillation,1.0
+oscillation damping,1.0
+oscillation monitoring,1.0
+power generation control,1.0
+outage management,1.0
+outages,1.0
+output,1.0
+output feedback,1.0
+output-feedback control,1.0
+overhead line,1.0
+overlap,1.0
+overlapping group lasso,1.0
+parallel,1.0
+parallel algorithm,1.0
+parallel algorithms,1.0
+optimal location,1.0
+optimal dispatch,1.0
+optimal dg size,1.0
+optimal dg location,1.0
+offshore wind energy,1.0
+offshore wind farm (owf),1.0
+offshore wind power,1.0
+oligopoly,1.0
+on-load tap changer,1.0
+online algorithms,1.0
+online applications,1.0
+online assessment,1.0
+online damping ratio prediction,1.0
+online estimation,1.0
+open access,1.0
+open data,1.0
+operating cost,1.0
+operation cost,1.0
+operational reliability,1.0
+operations,1.0
+opf,1.0
+opportunity cost,1.0
+optimal allocation,1.0
+optimal cable routing,1.0
+optimal charging schedules,1.0
+optimal charging/discharging control,1.0
+optimal dc-segmentation,1.0
+parallel inverters,1.0
+parallel-connected inverters,1.0
+parameter sensitivity,1.0
+pitch angle control,1.0
+plant protection,1.0
+plots,1.0
+plug-and-play operation,1.0
+plug-in electric vehicle aggregator,1.0
+plug-in electric vehicles (pevs),1.0
+pmu data,1.0
+point,1.0
+point estimate method,1.0
+point subdifferential method,1.0
+polyhedral approach,1.0
+pool,1.0
+population model,1.0
+positive systems,1.0
+post-disturbance trajectory,1.0
+post-fault topology,1.0
+potential power flow,1.0
+power control,1.0
+power distribution networks,1.0
+power distribution planning,1.0
+power distribution systems,1.0
+power engineering education,1.0
+power flow,1.0
+power fluctuations,1.0
+plant,1.0
+pinning control,1.0
+parametric optimization,1.0
+piecewise linear decision rules,1.0
+parareal in time,1.0
+part ii,1.0
+partial auto correlation coefficient (pacc),1.0
+partial least-squares regression,1.0
+participation factors,1.0
+passivity-based control,1.0
+pattern similarity,1.0
+pdf,1.0
+peak,1.0
+penalty function method,1.0
+periodogram,1.0
+phase balancing,1.0
+phase compensation method,1.0
+phase-locked loop,1.0
+phasor measurement unit (pmu) placement,1.0
+phasor measurement units (pmus),1.0
+photovoltaic,1.0
+photovoltaic (pv) power systems,1.0
+photovoltaic generators,1.0
+photovoltaic inverter control,1.0
+photovoltaic plants (pv),1.0
+photovoltaic systems,1.0
+phsaor measurement units,1.0
+2-d state bin,1.0

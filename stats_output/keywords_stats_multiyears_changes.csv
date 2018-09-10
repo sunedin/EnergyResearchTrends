@@ -1,0 +1,494 @@
+,2015,2016,2017,abs_total,total
+Appl Energ,0.0,10.0,8.0,18.0,18.0
+machine learning,0.0,4.0,8.0,12.0,12.0
+model,0.0,6.0,0.0,6.0,6.0
+regression,0.0,2.0,3.0,5.0,5.0
+Ieee T Power Syst,0.0,-1.0,5.0,6.0,4.0
+neural-networks,0.0,2.0,2.0,4.0,4.0
+classification,0.0,-4.0,7.0,11.0,3.0
+wavelet transform,0.0,5.0,-2.0,7.0,3.0
+prediction,0.0,2.0,1.0,3.0,3.0
+extreme learning machine,0.0,2.0,1.0,3.0,3.0
+algorithm,0.0,1.0,2.0,3.0,3.0
+optimization,0.0,3.0,0.0,3.0,3.0
+performance,0.0,0.0,3.0,3.0,3.0
+demand response,0.0,2.0,1.0,3.0,3.0
+commercial buildings,0.0,1.0,2.0,3.0,3.0
+neural-network,0.0,1.0,2.0,3.0,3.0
+machine,0.0,1.0,2.0,3.0,3.0
+simulation,0.0,0.0,3.0,3.0,3.0
+models,0.0,0.0,3.0,3.0,3.0
+big data,0.0,0.0,3.0,3.0,3.0
+random forests,0.0,0.0,3.0,3.0,3.0
+unit commitment,0.0,0.0,3.0,3.0,3.0
+energy-consumption,0.0,0.0,3.0,3.0,3.0
+energy,0.0,-1.0,3.0,4.0,2.0
+data mining,0.0,-1.0,3.0,4.0,2.0
+consumption,0.0,3.0,-1.0,4.0,2.0
+quantile regression,0.0,3.0,-1.0,4.0,2.0
+artificial neural-networks,0.0,2.0,0.0,2.0,2.0
+extreme learning-machine,0.0,2.0,0.0,2.0,2.0
+time-series,0.0,1.0,1.0,2.0,2.0
+prediction intervals,0.0,1.0,1.0,2.0,2.0
+framework,0.0,2.0,0.0,2.0,2.0
+feature selection,0.0,1.0,1.0,2.0,2.0
+artificial neural-network,0.0,1.0,1.0,2.0,2.0
+energy efficiency,0.0,1.0,1.0,2.0,2.0
+deep learning,0.0,1.0,1.0,2.0,2.0
+decomposition,0.0,1.0,1.0,2.0,2.0
+dispatch,0.0,1.0,1.0,2.0,2.0
+smart grid,0.0,1.0,1.0,2.0,2.0
+uncertainty,0.0,1.0,1.0,2.0,2.0
+sensitivity-analysis,0.0,1.0,1.0,2.0,2.0
+probabilistic forecasting,0.0,0.0,2.0,2.0,2.0
+power-systems,0.0,0.0,2.0,2.0,2.0
+power,0.0,0.0,2.0,2.0,2.0
+demand,0.0,0.0,2.0,2.0,2.0
+nsga-ii,0.0,0.0,2.0,2.0,2.0
+meta-model,0.0,0.0,2.0,2.0,2.0
+machines,0.0,0.0,2.0,2.0,2.0
+energy prediction,0.0,0.0,2.0,2.0,2.0
+load,0.0,0.0,2.0,2.0,2.0
+data-driven,0.0,0.0,2.0,2.0,2.0
+forecast,0.0,0.0,2.0,2.0,2.0
+fault diagnosis,0.0,0.0,2.0,2.0,2.0
+calibration,0.0,0.0,2.0,2.0,2.0
+impact,0.0,0.0,2.0,2.0,2.0
+management,0.0,0.0,2.0,2.0,2.0
+thermal performance,0.0,0.0,2.0,2.0,2.0
+strategy,0.0,0.0,2.0,2.0,2.0
+system,0.0,0.0,2.0,2.0,2.0
+smart meter,0.0,0.0,2.0,2.0,2.0
+speed prediction,0.0,0.0,2.0,2.0,2.0
+surrogate model,0.0,0.0,2.0,2.0,2.0
+Ieee T Smart Grid,0.0,2.0,-1.0,3.0,1.0
+identification,0.0,2.0,-1.0,3.0,1.0
+neural network,0.0,2.0,-1.0,3.0,1.0
+support vector regression,0.0,2.0,-1.0,3.0,1.0
+systems,0.0,1.0,0.0,1.0,1.0
+wavelet,0.0,0.0,1.0,1.0,1.0
+arima,0.0,1.0,0.0,1.0,1.0
+forecasting,0.0,1.0,0.0,1.0,1.0
+energy storage,0.0,1.0,0.0,1.0,1.0
+hybrid arima,0.0,1.0,0.0,1.0,1.0
+hong-kong,0.0,1.0,0.0,1.0,1.0
+wavelet design,0.0,1.0,0.0,1.0,1.0
+uncertainty analysis,0.0,1.0,0.0,1.0,1.0
+natural ventilation,0.0,1.0,0.0,1.0,1.0
+wind power-generation,0.0,1.0,0.0,1.0,1.0
+residential buildings,0.0,1.0,0.0,1.0,1.0
+power-system,0.0,1.0,0.0,1.0,1.0
+time-series prediction,0.0,0.0,1.0,1.0,1.0
+emissions,0.0,0.0,1.0,1.0,1.0
+energy disaggregation,0.0,0.0,1.0,1.0,1.0
+energy demand,0.0,0.0,1.0,1.0,1.0
+energy cost saving,0.0,0.0,1.0,1.0,1.0
+training dataset optimization,0.0,0.0,1.0,1.0,1.0
+electricity price forecasting,0.0,0.0,1.0,1.0,1.0
+elm,0.0,0.0,1.0,1.0,1.0
+energy modeling,0.0,0.0,1.0,1.0,1.0
+electricity price forecast,0.0,0.0,1.0,1.0,1.0
+electricity price,0.0,0.0,1.0,1.0,1.0
+electricity markets,0.0,0.0,1.0,1.0,1.0
+electrical signal,0.0,0.0,1.0,1.0,1.0
+electric vehicle,0.0,0.0,1.0,1.0,1.0
+electric demand intensity,0.0,0.0,1.0,1.0,1.0
+efficiency,0.0,0.0,1.0,1.0,1.0
+dynamic security assessment,0.0,0.0,1.0,1.0,1.0
+disclosure,0.0,0.0,1.0,1.0,1.0
+disaggregation,0.0,0.0,1.0,1.0,1.0
+energy metering,0.0,0.0,1.0,1.0,1.0
+thermal storage,0.0,0.0,1.0,1.0,1.0
+energy optimization,0.0,0.0,1.0,1.0,1.0
+thermal energy storage,0.0,0.0,1.0,1.0,1.0
+future,0.0,0.0,1.0,1.0,1.0
+synchrophasors,0.0,0.0,1.0,1.0,1.0
+financial loss/gain (flg),0.0,0.0,1.0,1.0,1.0
+filter,0.0,0.0,1.0,1.0,1.0
+feature-extraction,0.0,0.0,1.0,1.0,1.0
+system identification,0.0,0.0,1.0,1.0,1.0
+system modeling,0.0,0.0,1.0,1.0,1.0
+extreme transfer learning,0.0,0.0,1.0,1.0,1.0
+system pattern region,0.0,0.0,1.0,1.0,1.0
+extreme events,0.0,0.0,1.0,1.0,1.0
+energy performance,0.0,0.0,1.0,1.0,1.0
+event detection,0.0,0.0,1.0,1.0,1.0
+errors-in-variables,0.0,0.0,1.0,1.0,1.0
+equilibrium-inspired multiagent optimizer,0.0,0.0,1.0,1.0,1.0
+ensemble methods,0.0,0.0,1.0,1.0,1.0
+ensemble learning-paradigm,0.0,0.0,1.0,1.0,1.0
+ensemble forecasting,0.0,0.0,1.0,1.0,1.0
+ensemble,0.0,0.0,1.0,1.0,1.0
+energyplus,0.0,0.0,1.0,1.0,1.0
+energy-storage,0.0,0.0,1.0,1.0,1.0
+diagnosis,0.0,0.0,1.0,1.0,1.0
+diffuse fraction,0.0,0.0,1.0,1.0,1.0
+security constrained economic dispatch (sced),0.0,0.0,1.0,1.0,1.0
+detection algorithm,0.0,0.0,1.0,1.0,1.0
+bagging,0.0,0.0,1.0,1.0,1.0
+building energy prediction,0.0,0.0,1.0,1.0,1.0
+building energy,0.0,0.0,1.0,1.0,1.0
+building cooling load,0.0,0.0,1.0,1.0,1.0
+box model,0.0,0.0,1.0,1.0,1.0
+blind source separation,0.0,0.0,1.0,1.0,1.0
+wind energy,0.0,0.0,1.0,1.0,1.0
+bayesian-analysis,0.0,0.0,1.0,1.0,1.0
+bayesian statistics,0.0,0.0,1.0,1.0,1.0
+bayesian networks,0.0,0.0,1.0,1.0,1.0
+battery,0.0,0.0,1.0,1.0,1.0
+bat algorithm,0.0,0.0,1.0,1.0,1.0
+backfitting algorithm,0.0,0.0,1.0,1.0,1.0
+tree,0.0,0.0,1.0,1.0,1.0
+assimilation,0.0,0.0,1.0,1.0,1.0
+wind forecasting,0.0,0.0,1.0,1.0,1.0
+arma,0.0,0.0,1.0,1.0,1.0
+appliances,0.0,0.0,1.0,1.0,1.0
+allocation,0.0,0.0,1.0,1.0,1.0
+wind power integration,0.0,0.0,1.0,1.0,1.0
+additive model,0.0,0.0,1.0,1.0,1.0
+active learning,0.0,0.0,1.0,1.0,1.0
+wind turbine,0.0,0.0,1.0,1.0,1.0
+building energy-consumption,0.0,0.0,1.0,1.0,1.0
+building simulation,0.0,0.0,1.0,1.0,1.0
+capture plants,0.0,0.0,1.0,1.0,1.0
+generation company (genco),0.0,0.0,1.0,1.0,1.0
+urban dynamics,0.0,0.0,1.0,1.0,1.0
+decentralized optimal carbon-energy combined-flow,0.0,0.0,1.0,1.0,1.0
+database,0.0,0.0,1.0,1.0,1.0
+user preference,0.0,0.0,1.0,1.0,1.0
+virtual sample generation,0.0,0.0,1.0,1.0,1.0
+data compression,0.0,0.0,1.0,1.0,1.0
+data analytics,0.0,0.0,1.0,1.0,1.0
+crude-oil price,0.0,0.0,1.0,1.0,1.0
+convolutional neural network,0.0,0.0,1.0,1.0,1.0
+voltage indicators,0.0,0.0,1.0,1.0,1.0
+consumers,0.0,0.0,1.0,1.0,1.0
+complex chemical-processes,0.0,0.0,1.0,1.0,1.0
+commercial building energy consumption,0.0,0.0,1.0,1.0,1.0
+combination,0.0,0.0,1.0,1.0,1.0
+clustering analysis,0.0,0.0,1.0,1.0,1.0
+climate,0.0,0.0,1.0,1.0,1.0
+wavelet decomposition,0.0,0.0,1.0,1.0,1.0
+cities,0.0,0.0,1.0,1.0,1.0
+china,0.0,0.0,1.0,1.0,1.0
+cbecs,0.0,0.0,1.0,1.0,1.0
+carbon price forecasting,0.0,0.0,1.0,1.0,1.0
+grids,0.0,0.0,1.0,1.0,1.0
+global irradiance,0.0,0.0,1.0,1.0,1.0
+performance evaluation,0.0,0.0,1.0,1.0,1.0
+power system stability,0.0,0.0,1.0,1.0,1.0
+power system resilience,0.0,0.0,1.0,1.0,1.0
+power system planning,0.0,0.0,1.0,1.0,1.0
+power system economics,0.0,0.0,1.0,1.0,1.0
+power system analysis,0.0,0.0,1.0,1.0,1.0
+policy functions,0.0,0.0,1.0,1.0,1.0
+plants,0.0,0.0,1.0,1.0,1.0
+photovoltaic modeling,0.0,0.0,1.0,1.0,1.0
+photovoltaic generation,0.0,0.0,1.0,1.0,1.0
+photovoltaic array,0.0,0.0,1.0,1.0,1.0
+petrochemical industries,0.0,0.0,1.0,1.0,1.0
+performance analysis,0.0,0.0,1.0,1.0,1.0
+office buildings,0.0,0.0,1.0,1.0,1.0
+solar radiation,0.0,0.0,1.0,1.0,1.0
+pattern extraction,0.0,0.0,1.0,1.0,1.0
+passive design,0.0,0.0,1.0,1.0,1.0
+parameter identification,0.0,0.0,1.0,1.0,1.0
+package,0.0,0.0,1.0,1.0,1.0
+pack,0.0,0.0,1.0,1.0,1.0
+optimized kernel extreme learning machine,0.0,0.0,1.0,1.0,1.0
+sparse coding,0.0,0.0,1.0,1.0,1.0
+optimal-design,0.0,0.0,1.0,1.0,1.0
+optimal operation,0.0,0.0,1.0,1.0,1.0
+power transmission,0.0,0.0,1.0,1.0,1.0
+power-consumption,0.0,0.0,1.0,1.0,1.0
+prediction error,0.0,0.0,1.0,1.0,1.0
+sapso,0.0,0.0,1.0,1.0,1.0
+robust assessment,0.0,0.0,1.0,1.0,1.0
+reserve,0.0,0.0,1.0,1.0,1.0
+rental housing development,0.0,0.0,1.0,1.0,1.0
+renewable resources,0.0,0.0,1.0,1.0,1.0
+semi-supervised machine learning,0.0,0.0,1.0,1.0,1.0
+reanalysis,0.0,0.0,1.0,1.0,1.0
+random forest,0.0,0.0,1.0,1.0,1.0
+r package,0.0,0.0,1.0,1.0,1.0
+quantization,0.0,0.0,1.0,1.0,1.0
+short-term prediction,0.0,0.0,1.0,1.0,1.0
+pv power,0.0,0.0,1.0,1.0,1.0
+pumped hydro storage (phs),0.0,0.0,1.0,1.0,1.0
+protection,0.0,0.0,1.0,1.0,1.0
+projects,0.0,0.0,1.0,1.0,1.0
+probabilistic wind power forecast,0.0,0.0,1.0,1.0,1.0
+probabilistic modeling,0.0,0.0,1.0,1.0,1.0
+simulation extrapolation,0.0,0.0,1.0,1.0,1.0
+prices,0.0,0.0,1.0,1.0,1.0
+prediction model,0.0,0.0,1.0,1.0,1.0
+prediction methods,0.0,0.0,1.0,1.0,1.0
+small data,0.0,0.0,1.0,1.0,1.0
+opportunities,0.0,0.0,1.0,1.0,1.0
+nonparametric regression,0.0,0.0,1.0,1.0,1.0
+gradient boosting,0.0,0.0,1.0,1.0,1.0
+svr,0.0,0.0,1.0,1.0,1.0
+svm,0.0,0.0,1.0,1.0,1.0
+lithium-ion battery,0.0,0.0,1.0,1.0,1.0
+linear programming,0.0,0.0,1.0,1.0,1.0
+level,0.0,0.0,1.0,1.0,1.0
+lessons,0.0,0.0,1.0,1.0,1.0
+least-square,0.0,0.0,1.0,1.0,1.0
+least squares support vector regression,0.0,0.0,1.0,1.0,1.0
+lasso,0.0,0.0,1.0,1.0,1.0
+kernel estimate,0.0,0.0,1.0,1.0,1.0
+kelm,0.0,0.0,1.0,1.0,1.0
+independence,0.0,0.0,1.0,1.0,1.0
+nonnegative tensor factorization,0.0,0.0,1.0,1.0,1.0
+i-v characteristics,0.0,0.0,1.0,1.0,1.0
+hybrid model,0.0,0.0,1.0,1.0,1.0
+hybrid,0.0,0.0,1.0,1.0,1.0
+households,0.0,0.0,1.0,1.0,1.0
+home energy management system,0.0,0.0,1.0,1.0,1.0
+hilbert spectrum,0.0,0.0,1.0,1.0,1.0
+heuristic strategy,0.0,0.0,1.0,1.0,1.0
+scheme,0.0,0.0,1.0,1.0,1.0
+green building,0.0,0.0,1.0,1.0,1.0
+locational marginal prices (lmps),0.0,0.0,1.0,1.0,1.0
+wind turbine data,0.0,0.0,1.0,1.0,1.0
+nonlinearmodeling,0.0,0.0,1.0,1.0,1.0
+nonintrusive load monitoring,0.0,0.0,1.0,1.0,1.0
+non-negative k-svd,0.0,0.0,1.0,1.0,1.0
+non-intrusive load monitoring,0.0,0.0,1.0,1.0,1.0
+neuro-evolutionary algorithm,0.0,0.0,1.0,1.0,1.0
+state-action chain,0.0,0.0,1.0,1.0,1.0
+nash equilibrium,0.0,0.0,1.0,1.0,1.0
+multiobjective optimization,0.0,0.0,1.0,1.0,1.0
+multilabel classifiers,0.0,0.0,1.0,1.0,1.0
+multi-model,0.0,0.0,1.0,1.0,1.0
+monte carlo methods,0.0,0.0,1.0,1.0,1.0
+storage,0.0,0.0,1.0,1.0,1.0
+modeling,0.0,0.0,1.0,1.0,1.0
+model predictive control,0.0,0.0,1.0,1.0,1.0
+metrology,0.0,0.0,1.0,1.0,1.0
+support vector machine (svm),0.0,0.0,1.0,1.0,1.0
+measurement uncertainty,0.0,0.0,1.0,1.0,1.0
+measurement error models,0.0,0.0,1.0,1.0,1.0
+measurement and verification,0.0,0.0,1.0,1.0,1.0
+markets,0.0,0.0,1.0,1.0,1.0
+world,0.0,0.0,1.0,1.0,1.0
+wind power,0.0,-2.0,2.0,4.0,0.0
+demand-side management,0.0,2.0,-2.0,4.0,0.0
+mutual information,0.0,2.0,-2.0,4.0,0.0
+energy management,0.0,2.0,-2.0,4.0,0.0
+ensemble method,0.0,2.0,-2.0,4.0,0.0
+model-predictive control,0.0,2.0,-2.0,4.0,0.0
+least-squares regression,0.0,2.0,-2.0,4.0,0.0
+thermal comfort,0.0,2.0,-2.0,4.0,0.0
+building energy simulation,0.0,2.0,-2.0,4.0,0.0
+building energy consumption,0.0,2.0,-2.0,4.0,0.0
+fluctuations,0.0,-1.0,1.0,2.0,0.0
+transient stability,0.0,-1.0,1.0,2.0,0.0
+generation,0.0,-1.0,1.0,2.0,0.0
+state-of-charge,0.0,-1.0,1.0,2.0,0.0
+support vector machines,0.0,1.0,-1.0,2.0,0.0
+particle swarm optimization,0.0,-1.0,1.0,2.0,0.0
+artificial neural networks,0.0,1.0,-1.0,2.0,0.0
+feature reduction,0.0,1.0,-1.0,2.0,0.0
+farms,0.0,1.0,-1.0,2.0,0.0
+extreme machine learning,0.0,1.0,-1.0,2.0,0.0
+australia,0.0,1.0,-1.0,2.0,0.0
+exergy analysis,0.0,1.0,-1.0,2.0,0.0
+bayesian networks (bns),0.0,1.0,-1.0,2.0,0.0
+energy simulation,0.0,1.0,-1.0,2.0,0.0
+energy model,0.0,1.0,-1.0,2.0,0.0
+ann,0.0,1.0,-1.0,2.0,0.0
+combined heat,0.0,1.0,-1.0,2.0,0.0
+fpga applications in power laboratory,0.0,1.0,-1.0,2.0,0.0
+lab,0.0,1.0,-1.0,2.0,0.0
+irradiance variability,0.0,1.0,-1.0,2.0,0.0
+irradiance,0.0,1.0,-1.0,2.0,0.0
+intelligence techniques,0.0,1.0,-1.0,2.0,0.0
+Dg4bk,0.0,1.0,-1.0,2.0,0.0
+The whole approach is eventually applied to the case study of a tertiary building in Rome (Italy). (C) 2015 Elsevier Ltd. All rights reserved.,0.0,1.0,-1.0,2.0,0.0
+horizontal surface,0.0,1.0,-1.0,2.0,0.0
+home energy management,0.0,1.0,-1.0,2.0,0.0
+global solar-radiation,0.0,1.0,-1.0,2.0,0.0
+adaptive algorithms,0.0,1.0,-1.0,2.0,0.0
+fuzzy inference system,0.0,1.0,-1.0,2.0,0.0
+adaptive thermal comfort,0.0,1.0,-1.0,2.0,0.0
+air-flow models,0.0,1.0,-1.0,2.0,0.0
+behavior,0.0,1.0,-1.0,2.0,0.0
+broad-band models,0.0,1.0,-1.0,2.0,0.0
+boosted regression tree,0.0,1.0,-1.0,2.0,0.0
+buildings,0.0,1.0,-1.0,2.0,0.0
+deep belief network,0.0,1.0,-1.0,2.0,0.0
+decision tree,0.0,1.0,-1.0,2.0,0.0
+data-driven control,0.0,1.0,-1.0,2.0,0.0
+controller-design,0.0,1.0,-1.0,2.0,0.0
+consumer behavior,0.0,1.0,-1.0,2.0,0.0
+demand side management,0.0,1.0,-1.0,2.0,0.0
+conditional entropy (ce),0.0,1.0,-1.0,2.0,0.0
+compressor performance,0.0,1.0,-1.0,2.0,0.0
+components,0.0,1.0,-1.0,2.0,0.0
+carbon emissions,0.0,1.0,-1.0,2.0,0.0
+cie standard skies,0.0,1.0,-1.0,2.0,0.0
+demand management,0.0,1.0,-1.0,2.0,0.0
+building energy management,0.0,1.0,-1.0,2.0,0.0
+electronics,0.0,1.0,-1.0,2.0,0.0
+ejector,0.0,1.0,-1.0,2.0,0.0
+build,0.0,1.0,-1.0,2.0,0.0
+electricity demand,0.0,1.0,-1.0,2.0,0.0
+electricity curtailment,0.0,1.0,-1.0,2.0,0.0
+building climate control,0.0,1.0,-1.0,2.0,0.0
+electricity consumption,0.0,1.0,-1.0,2.0,0.0
+electric machines,0.0,1.0,-1.0,2.0,0.0
+education,0.0,1.0,-1.0,2.0,0.0
+determinants,0.0,1.0,-1.0,2.0,0.0
+economics,0.0,1.0,-1.0,2.0,0.0
+dynamic electricity price,0.0,1.0,-1.0,2.0,0.0
+discounted cash flow,0.0,1.0,-1.0,2.0,0.0
+direct load control,0.0,1.0,-1.0,2.0,0.0
+load and price forecasting,0.0,1.0,-1.0,2.0,0.0
+diffuse irradiance,0.0,1.0,-1.0,2.0,0.0
+wind speed forecast,0.0,1.0,-1.0,2.0,0.0
+load forecast,0.0,1.0,-1.0,2.0,0.0
+state estimation,0.0,1.0,-1.0,2.0,0.0
+time-series technique,0.0,1.0,-1.0,2.0,0.0
+time series forecasting,0.0,1.0,-1.0,2.0,0.0
+thermostatically controlled appliances,0.0,1.0,-1.0,2.0,0.0
+thermodynamic analysis,0.0,1.0,-1.0,2.0,0.0
+targeting,0.0,1.0,-1.0,2.0,0.0
+sustainable development,0.0,1.0,-1.0,2.0,0.0
+support,0.0,1.0,-1.0,2.0,0.0
+speed,0.0,1.0,-1.0,2.0,0.0
+transmittance,0.0,1.0,-1.0,2.0,0.0
+solid-state based power converters,0.0,1.0,-1.0,2.0,0.0
+solar power,0.0,1.0,-1.0,2.0,0.0
+solar energy model,0.0,1.0,-1.0,2.0,0.0
+solar energy,0.0,1.0,-1.0,2.0,0.0
+smart meter data,0.0,1.0,-1.0,2.0,0.0
+smart grid data,0.0,1.0,-1.0,2.0,0.0
+smart grid applications,0.0,1.0,-1.0,2.0,0.0
+transform,0.0,1.0,-1.0,2.0,0.0
+trees,0.0,1.0,-1.0,2.0,0.0
+short-term load forecast,0.0,1.0,-1.0,2.0,0.0
+virtual leave-one-out,0.0,1.0,-1.0,2.0,0.0
+wind power forecasting,0.0,1.0,-1.0,2.0,0.0
+wind farm,0.0,1.0,-1.0,2.0,0.0
+wavelet-coupled model,0.0,1.0,-1.0,2.0,0.0
+wavelet packet,0.0,1.0,-1.0,2.0,0.0
+water storage,0.0,1.0,-1.0,2.0,0.0
+waste heat,0.0,1.0,-1.0,2.0,0.0
+variable selection,0.0,1.0,-1.0,2.0,0.0
+turkey,0.0,1.0,-1.0,2.0,0.0
+validation,0.0,1.0,-1.0,2.0,0.0
+vacuum pump,0.0,1.0,-1.0,2.0,0.0
+univariate time-series,0.0,1.0,-1.0,2.0,0.0
+united-states,0.0,1.0,-1.0,2.0,0.0
+uncertainty quantification,0.0,1.0,-1.0,2.0,0.0
+typical meteorological year,0.0,1.0,-1.0,2.0,0.0
+short-term load forecasting,0.0,1.0,-1.0,2.0,0.0
+sequence generator,0.0,1.0,-1.0,2.0,0.0
+load management,0.0,1.0,-1.0,2.0,0.0
+model design,0.0,1.0,-1.0,2.0,0.0
+optimization algorithm,0.0,1.0,-1.0,2.0,0.0
+operation,0.0,1.0,-1.0,2.0,0.0
+operating principle,0.0,1.0,-1.0,2.0,0.0
+nonintrusive load monitoring (nilm),0.0,1.0,-1.0,2.0,0.0
+naturally ventilated buildings,0.0,1.0,-1.0,2.0,0.0
+monte carlo (mc) simulations,0.0,1.0,-1.0,2.0,0.0
+mixing section,0.0,1.0,-1.0,2.0,0.0
+partial least-squares regression,0.0,1.0,-1.0,2.0,0.0
+methodology,0.0,1.0,-1.0,2.0,0.0
+metamodel,0.0,1.0,-1.0,2.0,0.0
+meta-learning,0.0,1.0,-1.0,2.0,0.0
+ls-svm,0.0,1.0,-1.0,2.0,0.0
+logistic regression,0.0,1.0,-1.0,2.0,0.0
+load signature,0.0,1.0,-1.0,2.0,0.0
+partial least squares regression,0.0,1.0,-1.0,2.0,0.0
+pattern prediction,0.0,1.0,-1.0,2.0,0.0
+recommendation system,0.0,1.0,-1.0,2.0,0.0
+sensitivity analysis,0.0,1.0,-1.0,2.0,0.0
+segmentation,0.0,1.0,-1.0,2.0,0.0
+seasonal arima,0.0,1.0,-1.0,2.0,0.0
+satellite data,0.0,1.0,-1.0,2.0,0.0
+residential sector,0.0,1.0,-1.0,2.0,0.0
+residential appliances,0.0,1.0,-1.0,2.0,0.0
+regression trees,0.0,1.0,-1.0,2.0,0.0
+radiation,0.0,1.0,-1.0,2.0,0.0
+price,0.0,1.0,-1.0,2.0,0.0
+pressure coefficient,0.0,1.0,-1.0,2.0,0.0
+power quality (pq) monitoring,0.0,1.0,-1.0,2.0,0.0
+power engineering education,0.0,1.0,-1.0,2.0,0.0
+point,0.0,1.0,-1.0,2.0,0.0
+pid controller,0.0,1.0,-1.0,2.0,0.0
+metaheuristic optimization,0.0,1.0,-1.0,2.0,0.0
+smart grids,0.0,0.0,0.0,0.0,0.0
+empirical mode decomposition,0.0,-2.0,1.0,3.0,-1.0
+energy consumption,0.0,1.0,-2.0,3.0,-1.0
+smart meters,0.0,-1.0,0.0,1.0,-1.0
+estimation,0.0,-1.0,0.0,1.0,-1.0
+electric vehicles,0.0,-1.0,0.0,1.0,-1.0
+emd,0.0,-1.0,0.0,1.0,-1.0
+time-series analysis,0.0,-1.0,0.0,1.0,-1.0
+empirical-mode decomposition,0.0,-1.0,0.0,1.0,-1.0
+ensemble empirical mode decomposition,0.0,-1.0,0.0,1.0,-1.0
+ensemble empirical mode decomposition (eemd),0.0,-1.0,0.0,1.0,-1.0
+expert-system,0.0,-1.0,0.0,1.0,-1.0
+distribution networks,0.0,-1.0,0.0,1.0,-1.0
+fault location,0.0,-1.0,0.0,1.0,-1.0
+fault-diagnosis,0.0,-1.0,0.0,1.0,-1.0
+flexibility,0.0,-1.0,0.0,1.0,-1.0
+forecasts,0.0,-1.0,0.0,1.0,-1.0
+fuzzy-c mean,0.0,-1.0,0.0,1.0,-1.0
+distributions,0.0,-1.0,0.0,1.0,-1.0
+distribution feeders,0.0,-1.0,0.0,1.0,-1.0
+grey relational analysis,0.0,-1.0,0.0,1.0,-1.0
+categorization,0.0,-1.0,0.0,1.0,-1.0
+wavelet packet transform,0.0,-1.0,0.0,1.0,-1.0
+algorithms,0.0,-1.0,0.0,1.0,-1.0
+transient stability analysis,0.0,-1.0,0.0,1.0,-1.0
+battery life models,0.0,-1.0,0.0,1.0,-1.0
+boundary,0.0,-1.0,0.0,1.0,-1.0
+capacity estimation,0.0,-1.0,0.0,1.0,-1.0
+chaos analysis,0.0,-1.0,0.0,1.0,-1.0
+direct methods,0.0,-1.0,0.0,1.0,-1.0
+circuit analysis,0.0,-1.0,0.0,1.0,-1.0
+classification algorithms,0.0,-1.0,0.0,1.0,-1.0
+clustering algorithms,0.0,-1.0,0.0,1.0,-1.0
+complex disturbances,0.0,-1.0,0.0,1.0,-1.0
+compressive sensing,0.0,-1.0,0.0,1.0,-1.0
+curves,0.0,-1.0,0.0,1.0,-1.0
+health estimation,0.0,-1.0,0.0,1.0,-1.0
+spatial correlation,0.0,-1.0,0.0,1.0,-1.0
+power-generation,0.0,0.0,-1.0,1.0,-1.0
+practical method,0.0,-1.0,0.0,1.0,-1.0
+support vector machine,0.0,0.0,-1.0,1.0,-1.0
+psosa algorithm,0.0,-1.0,0.0,1.0,-1.0
+rank wavelet support vector machine (rank-wsvm),0.0,-1.0,0.0,1.0,-1.0
+real-time security assessment,0.0,-1.0,0.0,1.0,-1.0
+recognition,0.0,-1.0,0.0,1.0,-1.0
+remaining useful life,0.0,-1.0,0.0,1.0,-1.0
+power system control,0.0,-1.0,0.0,1.0,-1.0
+representation,0.0,-1.0,0.0,1.0,-1.0
+s-transform,0.0,-1.0,0.0,1.0,-1.0
+sag source detection,0.0,-1.0,0.0,1.0,-1.0
+short-term forecasting,0.0,-1.0,0.0,1.0,-1.0
+signal,0.0,-1.0,0.0,1.0,-1.0
+signals,0.0,-1.0,0.0,1.0,-1.0
+simulated annealing algorithms,0.0,-1.0,0.0,1.0,-1.0
+power systems,0.0,-1.0,0.0,1.0,-1.0
+power distribution-systems,0.0,-1.0,0.0,1.0,-1.0
+heat pump (hp),0.0,-1.0,0.0,1.0,-1.0
+hilbert-huang transform,0.0,-1.0,0.0,1.0,-1.0
+hurst analysis,0.0,-1.0,0.0,1.0,-1.0
+hypothesis test,0.0,-1.0,0.0,1.0,-1.0
+k-nearest neighborhood,0.0,-1.0,0.0,1.0,-1.0
+l(1) and stable l(1)-norm minimization,0.0,-1.0,0.0,1.0,-1.0
+least square support vector machine (lssvm),0.0,-1.0,0.0,1.0,-1.0
+load signatures,0.0,-1.0,0.0,1.0,-1.0
+management-systems,0.0,-1.0,0.0,1.0,-1.0
+power demand,0.0,-1.0,0.0,1.0,-1.0
+multi-scale,0.0,-1.0,0.0,1.0,-1.0
+nonintrusive load identification,0.0,-1.0,0.0,1.0,-1.0
+parameter-estimation,0.0,-1.0,0.0,1.0,-1.0
+particle filter,0.0,-1.0,0.0,1.0,-1.0
+polymer battery,0.0,-1.0,0.0,1.0,-1.0
+kalman filter,0.0,-1.0,0.0,1.0,-1.0
+sample entropy,0.0,-2.0,0.0,2.0,-2.0
