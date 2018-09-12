@@ -10,15 +10,13 @@ Function description: parse the literatures exported from endnote,
 """
 
 import pandas as pd
-import matplotlib.pyplot as plt
 import matplotlib as mpl
 import numpy as np
-# import geocoder
 import numpy as np
+# import geocoder
 # from mpl_toolkits.basemap import Basemap
 import matplotlib.pyplot as plt
 from math import sqrt
-from datetime import datetime
 from pandas.api.types import is_string_dtype
 from pandas.api.types import is_numeric_dtype
 
@@ -26,7 +24,6 @@ from pandas.api.types import is_numeric_dtype
 # setup_plt_style.set_plt_style()
 
 country_list = ['China', 'USA', 'England', 'Wales', 'Scotland', 'Edinburgh']
-
 
 
 def find_contry(value, country_list):
@@ -103,8 +100,12 @@ def keywords_stats(df, plot=True):
 
     try:
         if plot:
-            keywords_info[keywords_info > 10].plot.bar()
-            plt.show()
+            with plt.style.context('grayscale'):
+                plt.gray()
+                keywords_info[keywords_info > 10].plot.barh()
+                plt.grid('off')
+                plt.tight_layout()
+                plt.show()
         print(keywords_info)
     except:
         pass
@@ -118,14 +119,15 @@ def author_stats(df, country_list):
         print('{} papers are from {}'.format(author_count, country))
 
 
-def keywords_stats_horizon(df, horizon, keywords_interested=[]):
+def keywords_stats_horizon(df, horizon):
     keywords_stats_multiyears = pd.DataFrame()
-
 
     for year in horizon:
         if is_string_dtype(df['Year']):
             keywords_at_year = df[df['Year'] == str(year)]
-        keywords_stats_at_year = keywords_stats(keywords_at_year,  plot=False)
+        else:
+            keywords_at_year = df[df['Year'] == int(year)]
+        keywords_stats_at_year = keywords_stats(keywords_at_year, plot=False)
         keywords_stats_at_year.rename(year)
         keywords_stats_at_year = keywords_stats_at_year.to_frame(name=year)
         keywords_stats_multiyears = pd.concat([keywords_stats_multiyears, keywords_stats_at_year], axis=1, sort=False)
@@ -152,23 +154,19 @@ def keywords_stats_horizon(df, horizon, keywords_interested=[]):
 
     return keywords_stats_multiyears, keywords_stats_multiyears_changes
 
-    # keywords_stats_multiyears_changes.to_csv('stats_output\keywords_stats_multiyears_changes.csv') #todo: leaev i/o outside the module
-    # keywords_stats_multiyears.to_csv('stats_output\keywords_stats_multiyears.csv')
 
-def plot_keywords_stats_multiyears(keywords_stats_multiyears, keywords, horizon):
+def plot_keywords_stats_multiyears(keywords_stats_multiyears, horizon, keywords):
+    colors = plt.cm.rainbow(np.linspace(0, 1, len(keywords)))
     if keywords:
-        for keyword in keywords:
+        for keyword, c in zip(keywords, colors):
             keywords_stats_multiyears[keywords_stats_multiyears.index.str.contains(keyword)][horizon].sum().plot(label=keyword)
     else:
         keywords_stats_multiyears.head(10).T.loc[horizon].plot()
-
     plt.legend(loc=0)
-    # plt.ylim(0, 70)
-    # plt.title('the count of keywords in IEEE trans Power system')
-    # plt.show()
     return plt
 
-def print_keywords_stats(keywords_stats_multiyears_changes, keywords_stats_multiyears, keywords, horizon):
+
+def print_keywords_stats(keywords_stats_multiyears_changes, keywords_stats_multiyears, horizon, keywords):
     for keyword in keywords:
         print('\n=====================================')
         print('\n the summary of {}'.format(keyword))
@@ -178,8 +176,6 @@ def print_keywords_stats(keywords_stats_multiyears_changes, keywords_stats_multi
         print('\n')
         print(keywords_stats_multiyears[horizon][keywords_stats_multiyears.index.str.contains(keyword)].sum())
 
-# plot_keywords_stats_multiyears(keywords_interested)
-# print_keywords_stats(keywords_interested)
 
 # todo: to finish
 def author_stats_horizon(df, horizon):
